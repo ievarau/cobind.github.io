@@ -1,3 +1,7 @@
+## CTCF results
+
+[CTCF](COBIND_analysis_report_CTCF.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ievarau/cobind.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
