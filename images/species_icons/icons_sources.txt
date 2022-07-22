@@ -1,0 +1,34 @@
+Species icons are from:
+
+1. HUMAN
+
+1 - https://freesvg.org/ancient-greek-short-hairstyle-vector-illustration11883
+2 - https://freesvg.org/ancient-greek-short-hairstyle-vector-drawing11892
+
+2. MOUSE
+
+1 - https://freesvg.org/vector-graphics-of-mouse-with-long-tail
+
+3. RAT
+
+1 - https://freesvg.org/1547508146
+
+4. CELEGANS
+
+1 - https://commons.wikimedia.org/wiki/File:Nematode_%28Caenorhabditis_elegans%29.png
+
+5. ARABIDOPSIS
+
+1 - https://www.pax-db.org/species/3702
+2 - http://www.namethatplant.net/plantdetail.shtml?plant=3236
+2 - https://plants.usda.gov/home/plantProfile?symbol=ARTH
+
+6. DROSOPHILA
+
+1 - https://commons.wikimedia.org/wiki/File:Drosm3.svg
+
+7. DRERIO
+
+1 - https://commons.wikimedia.org/wiki/File:Zebrafish.png
+
+
