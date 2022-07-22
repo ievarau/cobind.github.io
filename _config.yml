@@ -1,11 +1,13 @@
 theme: jekyll-theme-minimal
 title: COBIND 2022
+description: Results from COBIND 2022 analysis
+
 author: Ieva Rauluseviciute
 email : ievarau@uio.no
 github : ievarau
 has_children: true
 logo: images/main_method_scheme.png
-description: Results from COBIND 2022 analysis
+
 show_downloads: true
 google_analytics:
 markdown: kramdown
