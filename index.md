@@ -8,7 +8,7 @@ between the two binding sites.
 
 This repository and its contents were used to produce the results for
 the COBIND manuscript. We made available COBIND as a tool, which can be
-found [**here**](https://bitbucket.org/CBGR/cobind_tool/src/master/).
+found [here](https://bitbucket.org/CBGR/cobind_tool/src/master/).
 
 ## What to expect from this page?
 
@@ -27,14 +27,14 @@ of reports report the discovered co-binders summarized over TF families.
 
 ### Individual transcription factors
 
-<p>
- 
-</p>
+#### *Arabidopsis thaliana*
 
-    ## #### _Arabidopsis thaliana_ ####  
-    ## ![species_icon](images/species_icons/ARABIDOPSIS.jpg){:height='36px' width = '36px'}  
-    ## <details>  
-    ##  <summary>Click for results!</summary>  
-    ## <details>
+![species_icon](images/species_icons/ARABIDOPSIS.jpg){:height=‘36px’
+width = ‘36px’}  
+<details>
+<summary>
+Click for results!
+</summary>
+<details>
 
 ### Transcription factor families
