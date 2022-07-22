@@ -27,4 +27,14 @@ of reports report the discovered co-binders summarized over TF families.
 
 ### Individual transcription factors
 
+<p>
+ 
+</p>
+
+    ## #### _Arabidopsis thaliana_ ####  
+    ## ![species_icon](images/species_icons/ARABIDOPSIS.jpg){:height='36px' width = '36px'}  
+    ## <details>  
+    ##  <summary>Click for results!</summary>  
+    ## <details>
+
 ### Transcription factor families
