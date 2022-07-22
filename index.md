@@ -27,7 +27,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 <br/>
 <img src=./images/species_icons/ARABIDOPSIS.png height = '30px'></img>
-<br/> ##\# **Arabidopsis thaliana** ##\# <br/>
+<br/> ### **Arabidopsis thaliana** ### <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -56,7 +56,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 <br/>
 <img src=./images/species_icons/CELEGANS.png height = '30px'></img>
-<br/> ##\# **Caenorhabditis elegans** ##\# <br/>
+<br/> ### **Caenorhabditis elegans** ### <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -74,7 +74,7 @@ of reports report the discovered co-binders summarized over TF families.
 <br/>
 
 <br/> <img src=./images/species_icons/DRERIO.png height = '30px'></img>
-<br/> ##\# **Danio rerio** ##\# <br/>
+<br/> ### **Danio rerio** ### <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -92,7 +92,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 <br/>
 <img src=./images/species_icons/DROSOPHILA.png height = '30px'></img>
-<br/> ##\# **Drosophila melanogaster** ##\# <br/>
+<br/> ### **Drosophila melanogaster** ### <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -118,7 +118,7 @@ of reports report the discovered co-binders summarized over TF families.
 <br/>
 
 <br/> <img src=./images/species_icons/HUMAN.png height = '30px'></img>
-<br/> ##\# **Homo sapiens** ##\# <br/>
+<br/> ### **Homo sapiens** ### <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -302,7 +302,7 @@ of reports report the discovered co-binders summarized over TF families.
 <br/>
 
 <br/> <img src=./images/species_icons/MOUSE.png height = '30px'></img>
-<br/> ##\# **Mus musculus** ##\# <br/>
+<br/> ### **Mus musculus** ### <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -492,7 +492,7 @@ of reports report the discovered co-binders summarized over TF families.
 <br/>
 
 <br/> <img src=./images/species_icons/RAT.png height = '30px'></img>
-<br/> ##\# **Rattus norvegicus** ##\# <br/>
+<br/> ### **Rattus norvegicus** ### <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>

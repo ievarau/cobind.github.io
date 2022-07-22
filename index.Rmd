@@ -6,7 +6,7 @@ github : ievarau
 date: July 22, 2022
 output:
   md_document:
-    variant: markdown_github
+    variant: gfm
 ---
 
 ```{r setup-options, cache = TRUE, echo = FALSE, eval = TRUE, include = FALSE}
