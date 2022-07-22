@@ -1,0 +1,1 @@
+Rscript bin/main/report/generate_report.R             -f TFAP2A-VAR2             -a /storage/scratch/ieva/COBIND_results/individual/HUMAN_0.99             -r bin/main/report/cobind_report_template.Rmd

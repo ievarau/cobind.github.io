@@ -1,0 +1,1 @@
+Rscript bin/main/report/generate_report.R             -f EFL-1             -a /storage/scratch/ieva/COBIND_results/individual/CELEGANS_0.99             -r bin/main/report/cobind_report_template.Rmd
