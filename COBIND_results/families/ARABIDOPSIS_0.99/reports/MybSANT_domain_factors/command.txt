@@ -1,0 +1,1 @@
+Rscript bin/main/report/generate_report.R             -f MybSANT_domain_factors             -a /storage/scratch/ieva/COBIND_results/families/ARABIDOPSIS_0.99             -r bin/main/report/cobind_report_template.Rmd
