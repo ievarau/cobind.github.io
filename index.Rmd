@@ -73,22 +73,18 @@ for (species.dir in list.of.species.dirs) {
   #            species_icon_path,
   #            " height = '30px'></img> \n<br/>\n "))
   # cat("</picture>")
-  cat(paste0(" ### **", species_name, "** ### \n<br/>\n"))
+  cat(paste0(" ### :+1: **", species_name, "** ### \n<br/>\n"))
   
   cat("<details>  \n")
   cat("\t<summary><b> Click to access results for each TF. </b></summary>  \n<br/>\n")
-  
-  cat("<p>")
-  cat("\n\t")
   
   for (report.path in list.of.reports) {
     
     tf_name <- basename(dirname(report.path))
     
-    cat(paste0(" \t * [", tf_name, "](", report.path,")\n"))
+    cat(paste0(" \t * [", tf_name, "](", report.path,")"))
 
   }
-  cat("</p>")
   
   cat("<br/></details>  \n<br/>\n")
 }
