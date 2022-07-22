@@ -84,7 +84,7 @@ for (species.dir in list.of.species.dirs) {
 
     tf_name <- basename(dirname(report.path))
 
-    cat(paste0("\t* [", tf_name, "](", report.path,")\n"))
+    cat(paste0("\t\t* [", tf_name, "](", report.path,")\n"))
 
   }
   
