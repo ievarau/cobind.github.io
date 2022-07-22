@@ -1,0 +1,14 @@
+---
+title: "COBIND 2022 results"
+author: Ieva Rauluseviciute
+date: July 22, 2022
+output:
+  md_document:
+    variant: markdown_github
+---
+
+# COBIND 2022 results #
+
+This page contains results from COBIND 2022 analysis. We analysed 8,792 datasets of high-confidence transcription factor binding sites (TFBSs) stored in [UniBind 2021](https://unibind.uio.no/) database from 7 species ( _Arabidopsis thaliana_, _Caenorhabditis elegans_, _Danio rerio_, _Drosophila melanogaster_, _Homo sapiens_, _Mus musculus_ and _Rattus norvegicus_) for 404 unique TFs.
+
+
