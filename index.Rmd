@@ -31,9 +31,7 @@ This page contains results from COBIND 2022 analysis. We analysed 8,792 datasets
 
 Reports about discovered co-binders are provided for each TF (where at least one co-binder was discovered) in different species. Another group of reports report the discovered co-binders summarized over TF families.
 
-# Results #
-
-## Individual transcription factors ##
+# Individual transcription factors #
 
 ```{r individual_reports, cache = TRUE, echo = FALSE, eval = TRUE, include = TRUE, results = 'asis'}
 
@@ -69,24 +67,24 @@ for (species.dir in list.of.species.dirs) {
                                   recursive = TRUE,
                                   full.names = TRUE)
   cat("<picture>")
-  # cat(paste0("\n<br/>\n <img src=./",
-  #            species_icon_path,
-  #            " height = '30px'></img> \n<br/>\n "))
-  # cat("</picture>")
-  cat(paste0(" ### :+1: **", species_name, "** ### \n<br/>\n"))
+  cat(paste0("\n<br/>\n <img src=./",
+             species_icon_path,
+             " height = '30px'></img> \n<br/>\n "))
+  cat("</picture>")
+  cat(paste0(" ## **", species_name, "** \n"))
   
   cat("<details>  \n")
-  cat("\t<summary><b> Click to access results for each TF. </b></summary>  \n<br/>\n")
+  cat("\t<summary><b> Results </b></summary>  \n<br/>\n")
   
-  for (report.path in list.of.reports) {
-    
-    tf_name <- basename(dirname(report.path))
-    
-    cat(paste0(" \t * [", tf_name, "](", report.path,")"))
-
-  }
+  # for (report.path in list.of.reports) {
+  #   
+  #   tf_name <- basename(dirname(report.path))
+  #   
+  #   cat(paste0(" \t * [", tf_name, "](", report.path,")\n"))
+  # 
+  # }
   
-  cat("<br/></details>  \n<br/>\n")
+  cat("</details>  \n<br/>\n")
 }
 
 cat("<br/>")
@@ -97,10 +95,10 @@ cat("\n")
 
 
 
-## Transcription factor families ##
+# Transcription factor families #
 
 
-### References ###
+## References ##
 
 Species icons were taken from:
 
