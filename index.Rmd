@@ -87,11 +87,10 @@ for (species.dir in list.of.species.dirs.individual) {
 
 
   cat(paste0("# **", species_name, "**"))
-  cat("<picture>")
-  cat(paste0("\n<br/>\n<img src=./",
+  cat(paste0("\n<img src=./",
              species_icon_path,
              " height = '100px'></img>\n"))
-  cat("</picture>\n<br/>\n")
+  cat("\n\n")
 
   ##------------##
   ## Individual ##
