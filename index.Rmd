@@ -17,6 +17,8 @@ required.libraries <- c("tidyverse")
 for (lib in required.libraries) {
   suppressPackageStartupMessages(library(lib, character.only = TRUE, quietly = T))
 }
+
+options(stringsAsFactors = FALSE)
 ```
 
 **COBIND** pipeline aims to identify the co-binders/co-factors of transcription factors (TFs). The method uses coordinates of transcription factor binding sites (TFBSs) as an input and returns information about co-binders and their binding fashion — spacings between the two binding sites.
@@ -68,12 +70,25 @@ for (species.dir in list.of.species.dirs) {
                                   full.names = TRUE)
 
   cat(paste0(" ## **", species_name, "**"))
-  cat("\n")
-  cat("<br/>")
-  cat("\n")
+  cat("<picture>")
+  cat(paste0("\n<br/>\n <img src=./",
+             species_icon_path,
+             " height = '30px'></img> \n "))
+  cat("</picture>\n<br/>\n")
+
+
+  cat("<details markdown='1'>")
+  cat("\t<summary><b> Results </b></summary>  \n<br/>\n")
   
-  cat("This is some information.\n")
+  for (report.path in list.of.reports) {
+
+    tf_name <- basename(dirname(report.path))
+
+    cat(paste0(" \t * [", tf_name, "](", report.path,")\n"))
+
+  }
   
+  cat("</details>  \n<br/>\n")
 
 }
 
