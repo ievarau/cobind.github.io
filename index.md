@@ -33,8 +33,23 @@ of reports report the discovered co-binders summarized over TF families.
 width = ‘36px’}  
 <details>
 <summary>
-Click for results!
+<b> Click for results! </b>
 </summary>
+
+-   [ABF1](COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF1/COBIND_analysis_report_ABF1.html)
+-   [ABF3](COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF3/COBIND_analysis_report_ABF3.html)
+-   [ABF4](COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF4/COBIND_analysis_report_ABF4.html)
+-   [ATHB7](COBIND_results/individual/ARABIDOPSIS_0.99/reports/ATHB7/COBIND_analysis_report_ATHB7.html)
+-   [GBF2](COBIND_results/individual/ARABIDOPSIS_0.99/reports/GBF2/COBIND_analysis_report_GBF2.html)
+-   [GBF3](COBIND_results/individual/ARABIDOPSIS_0.99/reports/GBF3/COBIND_analysis_report_GBF3.html)
+-   [HAT22](COBIND_results/individual/ARABIDOPSIS_0.99/reports/HAT22/COBIND_analysis_report_HAT22.html)
+-   [HY5](COBIND_results/individual/ARABIDOPSIS_0.99/reports/HY5/COBIND_analysis_report_HY5.html)
+-   [KAN1](COBIND_results/individual/ARABIDOPSIS_0.99/reports/KAN1/COBIND_analysis_report_KAN1.html)
+-   [WRKY18](COBIND_results/individual/ARABIDOPSIS_0.99/reports/WRKY18/COBIND_analysis_report_WRKY18.html)
+-   [WRKY33](COBIND_results/individual/ARABIDOPSIS_0.99/reports/WRKY33/COBIND_analysis_report_WRKY33.html)
+-   [WRKY40](COBIND_results/individual/ARABIDOPSIS_0.99/reports/WRKY40/COBIND_analysis_report_WRKY40.html)
+
+<details>
 <details>
 
 ### Transcription factor families
