@@ -7,8 +7,120 @@ output:
     variant: markdown_github
 ---
 
-# COBIND 2022 results #
+---
+layout: default
+---
 
-This page contains results from COBIND 2022 analysis. We analysed 8,792 datasets of high-confidence transcription factor binding sites (TFBSs) stored in [UniBind 2021](https://unibind.uio.no/) database from 7 species ( _Arabidopsis thaliana_, _Caenorhabditis elegans_, _Danio rerio_, _Drosophila melanogaster_, _Homo sapiens_, _Mus musculus_ and _Rattus norvegicus_) for 404 unique TFs.
+```{r setup-options, cache = TRUE, echo = FALSE, eval = TRUE, include = FALSE}
+
+required.libraries <- c("tidyverse")
+
+for (lib in required.libraries) {
+  suppressPackageStartupMessages(library(lib, character.only = TRUE, quietly = T))
+}
+```
+
+<!-- ## About COBIND ## -->
+
+**COBIND** pipeline aims to identify the co-binders/co-factors of transcription factors (TFs). The method uses coordinates of transcription factor binding sites (TFBSs) as an input and returns information about co-binders and their binding fashion — spacings between the two binding sites.
+
+This repository and its contents were used to produce the results for the COBIND manuscript. We made available COBIND as a tool, which can be found [here](https://bitbucket.org/CBGR/cobind_tool/src/master/).
+
+
+## What to expect from this page? ##
+
+This page contains results from COBIND 2022 analysis. We analysed 8,792 datasets of high-confidence TFBSs stored in [UniBind 2021](https://unibind.uio.no/) database for 404 unique TFs that collectively are from 7 species: _Arabidopsis thaliana_, _Caenorhabditis elegans_, _Danio rerio_, _Drosophila melanogaster_, _Homo sapiens_, _Mus musculus_ and _Rattus norvegicus_.
+
+
+Reports about discovered co-binders are provided for each TF (where at least one co-binder was discovered) in different species. Another group of reports report the discovered co-binders summarized over TF families.
+
+# Results #
+
+## Individual transcription factors ##
+
+```{r individual_reports, cache = TRUE, echo = FALSE, eval = TRUE, include = TRUE, results = 'asis'}
+
+## Species table:
+species_tab           <- as.data.frame(cbind(c("ARABIDOPSIS", "CELEGANS", "DRERIO",
+                                               "DROSOPHILA", "HUMAN", "MOUSE", "RAT"),
+                                             c("Arabidopsis thaliana", "Caenorhabditis elegans", "Danio rerio", 
+                                               "Drosophila melanogaster", "Homo sapiens", "Mus musculus", "Rattus norvegicus"),
+                                             c("ARABIDOPSIS.png", "CELEGANS.png", "DRERIO.png",
+                                               "DROSOPHILA.png", "HUMAN.png", "MOUSE.png", "RAT.png")))
+colnames(species_tab) <- c("species_ID", "species_name", "icon_path")
+
+## Directories:
+icons.dir            <- "images/species_icons"
+results_dir          <- "COBIND_results/individual"
+list.of.species.dirs <- list.dirs(results_dir, recursive = FALSE)
+
+## Creating reports lists:
+for (species.dir in list.of.species.dirs) {
+  
+  species_thr     <- basename(species.dir)
+  species_name_ID <- unlist(strsplit(species_thr, "_"))[1]
+  species_name    <- species_tab %>%
+    dplyr::filter(species_ID == species_name_ID) %>%
+    dplyr::select(species_name, icon_path)
+  
+  species_icon_path <- file.path(icons.dir, species_name$icon_path)
+  species_name      <- species_name$species_name
+  
+  ## Listing all available reports:
+  list.of.reports <- list.files(species.dir,
+                                pattern = ".html",
+                                recursive = TRUE,
+                                full.names = TRUE)
+  
+  cat(paste0("### **", species_name, "** ### \n"))
+  
+  cat(paste0("<img src=./",
+             species_icon_path,
+             " height = '20px'></img>  \n"))
+  # cat(paste0("![species_icon](", species_icon_path,"){:height='10px'}  \n"))
+  # cat(paste0("[[", species_icon_path, "|height=20px]] \n"))
+  
+  cat("<details>  \n")
+  cat("\t<summary><b> Click to access results for each TF. </b></summary>  \n")
+  
+  for (report.path in list.of.reports) {
+    
+    tf_name <- basename(dirname(report.path))
+    
+    cat(paste0(" *\t [", tf_name, "](./", report.path,")\n"))
+    cat("\n")
+
+  }
+  
+  cat("</details>  \n")
+}
+
+cat("\n")
+cat("\n")
+cat("\n")
+```
+
+
+
+
+## Transcription factor families ##
+
+
+### References ###
+
+Species icons were taken from:
+
+* [ _Arabidopsis thaliana_ ](http://www.namethatplant.net/plantdetail.shtml?plant=3236)
+* [ _Caenorhabditis elegans_ ](https://commons.wikimedia.org/wiki/File:Nematode_%28Caenorhabditis_elegans%29.png)
+* [ _Danio rerio_ ](https://commons.wikimedia.org/wiki/File:Zebrafish.png)
+* [ _Drosophila melanogaster_](https://commons.wikimedia.org/wiki/File:Drosm3.svg)
+* [ _Homo sapiens_ ](https://freesvg.org/ancient-greek-short-hairstyle-vector-illustration11883)
+* [ _Mus musculus_ ](https://freesvg.org/vector-graphics-of-mouse-with-long-tail)
+* [ _Rattus norvegicus_ ](https://freesvg.org/1547508146)
+
+
+
+
+
 
 

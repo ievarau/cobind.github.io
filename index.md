@@ -29,7 +29,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 ### **Arabidopsis thaliana**
 
-<img src=./images/species_icons/ARABIDOPSIS.jpg height = '20px'></img>  
+<img src=./images/species_icons/ARABIDOPSIS.png height = '20px'></img>  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -89,7 +89,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 ### **Drosophila melanogaster**
 
-<img src=./images/species_icons/DROSOPHILA.svg height = '20px'></img>  
+<img src=./images/species_icons/DROSOPHILA.png height = '20px'></img>  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -119,7 +119,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 ### **Homo sapiens**
 
-<img src=./images/species_icons/HUMAN.svg height = '20px'></img>  
+<img src=./images/species_icons/HUMAN.png height = '20px'></img>  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -465,7 +465,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 ### **Mus musculus**
 
-<img src=./images/species_icons/MOUSE.svg height = '20px'></img>  
+<img src=./images/species_icons/MOUSE.png height = '20px'></img>  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -823,7 +823,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 ### **Rattus norvegicus**
 
-<img src=./images/species_icons/RAT.svg height = '20px'></img>  
+<img src=./images/species_icons/RAT.png height = '20px'></img>  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -860,8 +860,6 @@ of reports report the discovered co-binders summarized over TF families.
 -   [TCF7L2](./COBIND_results/individual/RAT_0.99/reports/TCF7L2/COBIND_analysis_report_TCF7L2.html)
 
 </details>
-
-[ABF1](COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF1/COBIND_analysis_report_ABF1.html)
 
 ## Transcription factor families
 
