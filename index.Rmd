@@ -1,15 +1,14 @@
 ---
 title: "COBIND 2022 results"
 author: Ieva Rauluseviciute
+email : ievarau@uio.no
+github : ievarau
 date: July 22, 2022
 output:
   md_document:
     variant: markdown_github
 ---
 
----
-layout: default
----
 
 ```{r setup-options, cache = TRUE, echo = FALSE, eval = TRUE, include = FALSE}
 
@@ -50,9 +49,9 @@ species_tab           <- as.data.frame(cbind(c("ARABIDOPSIS", "CELEGANS", "DRERI
 colnames(species_tab) <- c("species_ID", "species_name", "icon_path")
 
 ## Directories:
-icons.dir            <- "images/species_icons"
-results_dir          <- "COBIND_results/individual"
-list.of.species.dirs <- list.dirs(results_dir, recursive = FALSE)
+icons.dir             <- "images/species_icons"
+results_dir           <- "COBIND_results/individual"
+list.of.species.dirs  <- list.dirs(results_dir, recursive = FALSE)
 
 ## Creating reports lists:
 for (species.dir in list.of.species.dirs) {
@@ -60,42 +59,42 @@ for (species.dir in list.of.species.dirs) {
   species_thr     <- basename(species.dir)
   species_name_ID <- unlist(strsplit(species_thr, "_"))[1]
   species_name    <- species_tab %>%
-    dplyr::filter(species_ID == species_name_ID) %>%
-    dplyr::select(species_name, icon_path)
+                      dplyr::filter(species_ID == species_name_ID) %>%
+                      dplyr::select(species_name, icon_path)
   
   species_icon_path <- file.path(icons.dir, species_name$icon_path)
   species_name      <- species_name$species_name
   
   ## Listing all available reports:
-  list.of.reports <- list.files(species.dir,
-                                pattern = ".html",
-                                recursive = TRUE,
-                                full.names = TRUE)
+  list.of.reports   <- list.files(species.dir,
+                                  pattern = ".html",
+                                  recursive = TRUE,
+                                  full.names = TRUE)
   
-  cat(paste0("### **", species_name, "** ### \n"))
-  
-  cat(paste0("<img src=./",
+  cat(paste0("\n<br/>\n <img src=./",
              species_icon_path,
-             " height = '20px'></img>  \n"))
-  # cat(paste0("![species_icon](", species_icon_path,"){:height='10px'}  \n"))
-  # cat(paste0("[[", species_icon_path, "|height=20px]] \n"))
+             " height = '30px'></img> \n<br/>\n "))
+  cat(paste0(" ### **", species_name, "** ### \n<br/>\n"))
   
   cat("<details>  \n")
-  cat("\t<summary><b> Click to access results for each TF. </b></summary>  \n")
+  cat("\t<summary><b> Click to access results for each TF. </b></summary>  \n<br/>\n")
+  
+  cat("<p>")
+  cat("\n")
   
   for (report.path in list.of.reports) {
     
     tf_name <- basename(dirname(report.path))
     
-    cat(paste0(" *\t [", tf_name, "](./", report.path,")\n"))
-    cat("\n")
+    cat(paste0(" \t * [", tf_name, "](./", report.path,")\n"))
 
   }
+  cat("</p>")
   
-  cat("</details>  \n")
+  cat("<br/></details>  \n<br/>\n")
 }
 
-cat("\n")
+cat("<br/>")
 cat("\n")
 cat("\n")
 ```
