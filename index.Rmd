@@ -69,26 +69,26 @@ for (species.dir in list.of.species.dirs) {
                                   recursive = TRUE,
                                   full.names = TRUE)
 
-  cat(paste0(" ## **", species_name, "**"))
+  cat(paste0("## **", species_name, "**"))
   cat("<picture>")
-  cat(paste0("\n<br/>\n <img src=./",
+  cat(paste0("\n<br/>\n<img src=./",
              species_icon_path,
-             " height = '30px'></img> \n "))
+             " height = '100px'></img>\n"))
   cat("</picture>\n<br/>\n")
 
 
   cat("<details markdown='1'>")
-  cat("\t<summary><b> Results </b></summary>  \n<br/>\n")
+  cat("\t<summary><b>Results</b></summary>\n")
   
   for (report.path in list.of.reports) {
 
     tf_name <- basename(dirname(report.path))
 
-    cat(paste0(" \t * [", tf_name, "](", report.path,")\n"))
+    cat(paste0("\t* [", tf_name, "](", report.path,")\n"))
 
   }
   
-  cat("</details>  \n<br/>\n")
+  cat("</details>\n")
 
 }
 
