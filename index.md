@@ -1,4 +1,4 @@
-## About COBIND
+<!-- ## About COBIND ## -->
 
 **COBIND** pipeline aims to identify the co-binders/co-factors of
 transcription factors (TFs). The method uses coordinates of
@@ -14,10 +14,10 @@ found [here](https://bitbucket.org/CBGR/cobind_tool/src/master/).
 
 This page contains results from COBIND 2022 analysis. We analysed 8,792
 datasets of high-confidence TFBSs stored in [UniBind
-2021](https://unibind.uio.no/) database from 7 species ( *Arabidopsis
-thaliana*, *Caenorhabditis elegans*, *Danio rerio*, *Drosophila
-melanogaster*, *Homo sapiens*, *Mus musculus* and *Rattus norvegicus*)
-for 404 unique TFs.
+2021](https://unibind.uio.no/) database for 404 unique TFs that
+collectively are from 7 species: *Arabidopsis thaliana*, *Caenorhabditis
+elegans*, *Danio rerio*, *Drosophila melanogaster*, *Homo sapiens*, *Mus
+musculus* and *Rattus norvegicus*.
 
 Reports about discovered co-binders are provided for each TF (where at
 least one co-binder was discovered) in different species. Another group
