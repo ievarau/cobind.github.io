@@ -10,7 +10,7 @@ This repository and its contents were used to produce the results for
 the COBIND manuscript. We made available COBIND as a tool, which can be
 found [**here**](https://bitbucket.org/CBGR/cobind_tool/src/master/).
 
-![COBIND overview](images/main_method_scheme.png)\[width = 100px\]
+![COBIND overview](images/main_method_scheme.png)
 
 **Figure 1.** Overview of the COBIND pipeline.
 
