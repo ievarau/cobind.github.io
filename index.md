@@ -29,7 +29,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Arabidopsis thaliana**
 
-<img style='text-align:center'><img src=./images/species_icons/ARABIDOPSIS.jpg height = '20px'/></img>
+![species_icon](images/species_icons/ARABIDOPSIS.jpg){:height=‘10px’}  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -52,7 +52,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Caenorhabditis elegans**
 
-<img style='text-align:center'><img src=./images/species_icons/CELEGANS.png height = '20px'/></img>
+![species_icon](images/species_icons/CELEGANS.png){:height=‘10px’}  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -65,7 +65,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Danio rerio**
 
-<img style='text-align:center'><img src=./images/species_icons/DRERIO.png height = '20px'/></img>
+![species_icon](images/species_icons/DRERIO.png){:height=‘10px’}  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -77,7 +77,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Drosophila melanogaster**
 
-<img style='text-align:center'><img src=./images/species_icons/DROSOPHILA.svg height = '20px'/></img>
+![species_icon](images/species_icons/DROSOPHILA.svg){:height=‘10px’}  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -98,7 +98,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Homo sapiens**
 
-<img style='text-align:center'><img src=./images/species_icons/HUMAN.svg height = '20px'/></img>
+![species_icon](images/species_icons/HUMAN.svg){:height=‘10px’}  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -277,7 +277,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Mus musculus**
 
-<img style='text-align:center'><img src=./images/species_icons/MOUSE.svg height = '20px'/></img>
+![species_icon](images/species_icons/MOUSE.svg){:height=‘10px’}  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -462,7 +462,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Rattus norvegicus**
 
-<img style='text-align:center'><img src=./images/species_icons/RAT.svg height = '20px'/></img>
+![species_icon](images/species_icons/RAT.svg){:height=‘10px’}  
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
