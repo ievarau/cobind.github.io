@@ -46,8 +46,8 @@ species_tab           <- as.data.frame(cbind(c("ARABIDOPSIS", "CELEGANS", "DRERI
 colnames(species_tab) <- c("species_ID", "species_name", "icon_path")
 
 ## Directories:
-icons.dir             <- "/images/species_icons"
-results_dir           <- "/COBIND_results/individual"
+icons.dir             <- "images/species_icons"
+results_dir           <- "COBIND_results/individual"
 list.of.species.dirs  <- list.dirs(results_dir, recursive = FALSE)
 
 ## Creating reports lists:
@@ -67,10 +67,11 @@ for (species.dir in list.of.species.dirs) {
                                   pattern = ".html",
                                   recursive = TRUE,
                                   full.names = TRUE)
-  
+  cat("<picture>")
   cat(paste0("\n<br/>\n <img src=./",
              species_icon_path,
              " height = '30px'></img> \n<br/>\n "))
+  cat("</picture>")
   cat(paste0(" ### **", species_name, "** ### \n<br/>\n"))
   
   cat("<details>  \n")
@@ -83,7 +84,7 @@ for (species.dir in list.of.species.dirs) {
     
     tf_name <- basename(dirname(report.path))
     
-    cat(paste0(" \t * [", tf_name, "](/", report.path,")\n"))
+    cat(paste0(" \t * [", tf_name, "](", report.path,")\n"))
 
   }
   cat("</p>")
