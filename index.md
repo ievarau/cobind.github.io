@@ -1,5 +1,3 @@
-<!-- ## About COBIND ## -->
-
 **COBIND** pipeline aims to identify the co-binders/co-factors of
 transcription factors (TFs). The method uses coordinates of
 transcription factor binding sites (TFBSs) as an input and returns

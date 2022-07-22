@@ -9,7 +9,6 @@ output:
     variant: markdown_github
 ---
 
-
 ```{r setup-options, cache = TRUE, echo = FALSE, eval = TRUE, include = FALSE}
 
 required.libraries <- c("tidyverse")
@@ -18,8 +17,6 @@ for (lib in required.libraries) {
   suppressPackageStartupMessages(library(lib, character.only = TRUE, quietly = T))
 }
 ```
-
-<!-- ## About COBIND ## -->
 
 **COBIND** pipeline aims to identify the co-binders/co-factors of transcription factors (TFs). The method uses coordinates of transcription factor binding sites (TFBSs) as an input and returns information about co-binders and their binding fashion — spacings between the two binding sites.
 
