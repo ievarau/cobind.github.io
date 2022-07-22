@@ -1,4 +1,4 @@
-# COBIND 2022 results
+## What is COBIND?
 
 **COBIND** pipeline aims to identify the co-binders/co-factors of
 transcription factors (TFs). The method uses coordinates of
@@ -10,9 +10,7 @@ This repository and its contents were used to produce the results for
 the COBIND manuscript. We made available COBIND as a tool, which can be
 found [**here**](https://bitbucket.org/CBGR/cobind_tool/src/master/).
 
-![COBIND overview](images/main_method_scheme.png)
-
-**Figure 1.** Overview of the COBIND pipeline.
+## What to expect from this page?
 
 This page contains results from COBIND 2022 analysis. We analysed 8,792
 datasets of high-confidence TFBSs stored in [UniBind
@@ -24,3 +22,9 @@ for 404 unique TFs.
 Reports about discovered co-binders are provided for each TF (where at
 least one co-binder was discovered) in different species. Another group
 of reports report the discovered co-binders summarized over TF families.
+
+## Results
+
+### Individual transcription factors
+
+### Transcription factor families
