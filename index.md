@@ -22,9 +22,9 @@ least one co-binder was discovered) in different species. Another group
 of reports report the discovered co-binders summarized over TF families.
 
 # **Arabidopsis thaliana**
-<p>
+
 <img src=images/species_icons/ARABIDOPSIS.png height = '100px'></img>
-</p>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -107,10 +107,11 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/ARABIDOPSIS_0.99/reports/WRKY40/COBIND_analysis_report_WRKY40.html'>WRKY40</a>
 </p>
 </details>
+
 # **Caenorhabditis elegans**
-<p>
+
 <img src=images/species_icons/CELEGANS.png height = '100px'></img>
-</p>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -133,10 +134,11 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/CELEGANS_0.99/reports/PHA-4/COBIND_analysis_report_PHA-4.html'>PHA-4</a>
 </p>
 </details>
+
 # **Danio rerio**
-<p>
+
 <img src=images/species_icons/DRERIO.png height = '100px'></img>
-</p>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -153,10 +155,11 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/DRERIO_0.99/reports/CTCF/COBIND_analysis_report_CTCF.html'>CTCF</a>
 </p>
 </details>
+
 # **Drosophila melanogaster**
-<p>
+
 <img src=images/species_icons/DROSOPHILA.png height = '100px'></img>
-</p>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -227,10 +230,11 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/DROSOPHILA_0.99/reports/TWI/COBIND_analysis_report_TWI.html'>TWI</a>
 </p>
 </details>
+
 # **Homo sapiens**
-<p>
+
 <img src=images/species_icons/HUMAN.png height = '100px'></img>
-</p>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -1249,10 +1253,11 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/HUMAN_0.99/reports/ZNF143/COBIND_analysis_report_ZNF143.html'>ZNF143</a>
 </p>
 </details>
+
 # **Mus musculus**
-<p>
+
 <img src=images/species_icons/MOUSE.png height = '100px'></img>
-</p>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -2307,10 +2312,11 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/MOUSE_0.99/reports/YY1/COBIND_analysis_report_YY1.html'>YY1</a>
 </p>
 </details>
+
 # **Rattus norvegicus**
-<p>
+
 <img src=images/species_icons/RAT.png height = '100px'></img>
-</p>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
