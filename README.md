@@ -2,7 +2,7 @@
 
 This is repository that stores the results from COBIND 2022 analysis.
 
-To access the results page go to [https://github.com/ievarau/COBIND_2022](https://github.com/ievarau/COBIND_2022).
+To access the results page go to [https://ievarau.github.io/COBIND_2022/](https://ievarau.github.io/COBIND_2022/).
 
 ## COBIND tool ##
 
