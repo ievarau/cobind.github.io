@@ -7,6 +7,7 @@ date: July 22, 2022
 output:
   md_document:
     variant: gfm
+has_children: true
 ---
 
 ```{r setup-options, cache = TRUE, echo = FALSE, eval = TRUE, include = FALSE}
@@ -68,17 +69,17 @@ for (species.dir in list.of.species.dirs) {
                                   recursive = TRUE,
                                   full.names = TRUE)
   cat("<picture>")
-  cat(paste0("\n<br/>\n <img src=./",
-             species_icon_path,
-             " height = '30px'></img> \n<br/>\n "))
-  cat("</picture>")
+  # cat(paste0("\n<br/>\n <img src=./",
+  #            species_icon_path,
+  #            " height = '30px'></img> \n<br/>\n "))
+  # cat("</picture>")
   cat(paste0(" ### **", species_name, "** ### \n<br/>\n"))
   
   cat("<details>  \n")
   cat("\t<summary><b> Click to access results for each TF. </b></summary>  \n<br/>\n")
   
   cat("<p>")
-  cat("\n")
+  cat("\n\t")
   
   for (report.path in list.of.reports) {
     
