@@ -1,11 +1,13 @@
 title: COBIND 2022
+author: Ieva Rauluseviciute
+email : ievarau@uio.no
+github : ievarau
+has_children: true
 logo: images/main_method_scheme.png
 description: Results from COBIND 2022 analysis
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 markdown: kramdown
-author: Ieva Rauluseviciute
-email : ievarau@uio.no
-github : ievarau
-has_children: true
+kramdown:
+  parse_block_html: true
