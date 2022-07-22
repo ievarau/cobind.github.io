@@ -23,11 +23,11 @@ Reports about discovered co-binders are provided for each TF (where at
 least one co-binder was discovered) in different species. Another group
 of reports report the discovered co-binders summarized over TF families.
 
-## Results
+# Results
 
-### Individual transcription factors
+## Individual transcription factors
 
-#### **Arabidopsis thaliana**
+### **Arabidopsis thaliana**
 
 \[\[images/species_icons/ARABIDOPSIS.jpg\|height=20px\]\]
 <details>
@@ -50,7 +50,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 </details>
 
-#### **Caenorhabditis elegans**
+### **Caenorhabditis elegans**
 
 \[\[images/species_icons/CELEGANS.png\|height=20px\]\]
 <details>
@@ -63,7 +63,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 </details>
 
-#### **Danio rerio**
+### **Danio rerio**
 
 \[\[images/species_icons/DRERIO.png\|height=20px\]\]
 <details>
@@ -75,7 +75,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 </details>
 
-#### **Drosophila melanogaster**
+### **Drosophila melanogaster**
 
 \[\[images/species_icons/DROSOPHILA.svg\|height=20px\]\]
 <details>
@@ -96,7 +96,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 </details>
 
-#### **Homo sapiens**
+### **Homo sapiens**
 
 \[\[images/species_icons/HUMAN.svg\|height=20px\]\]
 <details>
@@ -275,7 +275,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 </details>
 
-#### **Mus musculus**
+### **Mus musculus**
 
 \[\[images/species_icons/MOUSE.svg\|height=20px\]\]
 <details>
@@ -460,7 +460,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 </details>
 
-#### **Rattus norvegicus**
+### **Rattus norvegicus**
 
 \[\[images/species_icons/RAT.svg\|height=20px\]\]
 <details>
@@ -488,9 +488,9 @@ of reports report the discovered co-binders summarized over TF families.
 
 [ABF1](COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF1/COBIND_analysis_report_ABF1.html)
 
-### Transcription factor families
+## Transcription factor families
 
-## References
+### References
 
 Species icons were taken from:
 
