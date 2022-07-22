@@ -23,71 +23,12 @@ of reports report the discovered co-binders summarized over TF families.
 
 # Individual transcription factors
 
-<picture> <br/>
-<img src=./images/species_icons/ARABIDOPSIS.png height = '30px'></img>
-<br/> </picture> ## **Arabidopsis thaliana**
-<details>
-<summary>
-<b> Results </b>
-</summary>
-<br/>
-</details>
-<br/> <picture> <br/>
-<img src=./images/species_icons/CELEGANS.png height = '30px'></img>
-<br/> </picture> ## **Caenorhabditis elegans**
-<details>
-<summary>
-<b> Results </b>
-</summary>
-<br/>
-</details>
-<br/> <picture> <br/>
-<img src=./images/species_icons/DRERIO.png height = '30px'></img> <br/>
-</picture> ## **Danio rerio**
-<details>
-<summary>
-<b> Results </b>
-</summary>
-<br/>
-</details>
-<br/> <picture> <br/>
-<img src=./images/species_icons/DROSOPHILA.png height = '30px'></img>
-<br/> </picture> ## **Drosophila melanogaster**
-<details>
-<summary>
-<b> Results </b>
-</summary>
-<br/>
-</details>
-<br/> <picture> <br/>
-<img src=./images/species_icons/HUMAN.png height = '30px'></img> <br/>
-</picture> ## **Homo sapiens**
-<details>
-<summary>
-<b> Results </b>
-</summary>
-<br/>
-</details>
-<br/> <picture> <br/>
-<img src=./images/species_icons/MOUSE.png height = '30px'></img> <br/>
-</picture> ## **Mus musculus**
-<details>
-<summary>
-<b> Results </b>
-</summary>
-<br/>
-</details>
-<br/> <picture> <br/>
-<img src=./images/species_icons/RAT.png height = '30px'></img> <br/>
-</picture> ## **Rattus norvegicus**
-<details>
-<summary>
-<b> Results </b>
-</summary>
-<br/>
-</details>
-
-<br/> <br/>
+## **Arabidopsis thaliana** <br/> This is some information. ##
+**Caenorhabditis elegans** <br/> This is some information. ## **Danio
+rerio** <br/> This is some information. ## **Drosophila melanogaster**
+<br/> This is some information. ## **Homo sapiens** <br/> This is some
+information. ## **Mus musculus** <br/> This is some information. ##
+**Rattus norvegicus** <br/> This is some information.
 
 # Transcription factor families
 
