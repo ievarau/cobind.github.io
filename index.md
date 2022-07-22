@@ -27,15 +27,15 @@ of reports report the discovered co-binders summarized over TF families.
 
 ## Individual transcription factors
 
-### **Arabidopsis thaliana**
-
-<img src=./images/species_icons/ARABIDOPSIS.png height = '20px'></img>  
+<img src=./images/species_icons/ARABIDOPSIS.png height = '20px'></img>
+##\# **Arabidopsis thaliana** <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
 </summary>
 
--   [ABF1](./COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF1/COBIND_analysis_report_ABF1.html)
+<br/> \*
+[ABF1](./COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF1/COBIND_analysis_report_ABF1.html)
 
 -   [ABF3](./COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF3/COBIND_analysis_report_ABF3.html)
 
@@ -60,42 +60,41 @@ of reports report the discovered co-binders summarized over TF families.
 -   [WRKY40](./COBIND_results/individual/ARABIDOPSIS_0.99/reports/WRKY40/COBIND_analysis_report_WRKY40.html)
 
 </details>
-
-### **Caenorhabditis elegans**
-
-<img src=./images/species_icons/CELEGANS.png height = '20px'></img>  
+<br/>
+<img src=./images/species_icons/CELEGANS.png height = '20px'></img> ##\#
+**Caenorhabditis elegans** <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
 </summary>
 
--   [EFL-1](./COBIND_results/individual/CELEGANS_0.99/reports/EFL-1/COBIND_analysis_report_EFL-1.html)
+<br/> \*
+[EFL-1](./COBIND_results/individual/CELEGANS_0.99/reports/EFL-1/COBIND_analysis_report_EFL-1.html)
 
 -   [PHA-4](./COBIND_results/individual/CELEGANS_0.99/reports/PHA-4/COBIND_analysis_report_PHA-4.html)
 
 </details>
-
-### **Danio rerio**
-
-<img src=./images/species_icons/DRERIO.png height = '20px'></img>  
+<br/> <img src=./images/species_icons/DRERIO.png height = '20px'></img>
+##\# **Danio rerio** <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
 </summary>
 
--   [CTCF](./COBIND_results/individual/DRERIO_0.99/reports/CTCF/COBIND_analysis_report_CTCF.html)
+<br/> \*
+[CTCF](./COBIND_results/individual/DRERIO_0.99/reports/CTCF/COBIND_analysis_report_CTCF.html)
 
 </details>
-
-### **Drosophila melanogaster**
-
-<img src=./images/species_icons/DROSOPHILA.png height = '20px'></img>  
+<br/>
+<img src=./images/species_icons/DROSOPHILA.png height = '20px'></img>
+##\# **Drosophila melanogaster** <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
 </summary>
 
--   [BEAF-32](./COBIND_results/individual/DROSOPHILA_0.99/reports/BEAF-32/COBIND_analysis_report_BEAF-32.html)
+<br/> \*
+[BEAF-32](./COBIND_results/individual/DROSOPHILA_0.99/reports/BEAF-32/COBIND_analysis_report_BEAF-32.html)
 
 -   [CLAMP](./COBIND_results/individual/DROSOPHILA_0.99/reports/CLAMP/COBIND_analysis_report_CLAMP.html)
 
@@ -116,16 +115,15 @@ of reports report the discovered co-binders summarized over TF families.
 -   [TWI](./COBIND_results/individual/DROSOPHILA_0.99/reports/TWI/COBIND_analysis_report_TWI.html)
 
 </details>
-
-### **Homo sapiens**
-
-<img src=./images/species_icons/HUMAN.png height = '20px'></img>  
+<br/> <img src=./images/species_icons/HUMAN.png height = '20px'></img>
+##\# **Homo sapiens** <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
 </summary>
 
--   [AR](./COBIND_results/individual/HUMAN_0.99/reports/AR/COBIND_analysis_report_AR.html)
+<br/> \*
+[AR](./COBIND_results/individual/HUMAN_0.99/reports/AR/COBIND_analysis_report_AR.html)
 
 -   [ARNT-HIF1A](./COBIND_results/individual/HUMAN_0.99/reports/ARNT-HIF1A/COBIND_analysis_report_ARNT-HIF1A.html)
 
@@ -462,16 +460,15 @@ of reports report the discovered co-binders summarized over TF families.
 -   [ZNF143](./COBIND_results/individual/HUMAN_0.99/reports/ZNF143/COBIND_analysis_report_ZNF143.html)
 
 </details>
-
-### **Mus musculus**
-
-<img src=./images/species_icons/MOUSE.png height = '20px'></img>  
+<br/> <img src=./images/species_icons/MOUSE.png height = '20px'></img>
+##\# **Mus musculus** <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
 </summary>
 
--   [AR](./COBIND_results/individual/MOUSE_0.99/reports/AR/COBIND_analysis_report_AR.html)
+<br/> \*
+[AR](./COBIND_results/individual/MOUSE_0.99/reports/AR/COBIND_analysis_report_AR.html)
 
 -   [ARNTL](./COBIND_results/individual/MOUSE_0.99/reports/ARNTL/COBIND_analysis_report_ARNTL.html)
 
@@ -820,16 +817,15 @@ of reports report the discovered co-binders summarized over TF families.
 -   [YY1](./COBIND_results/individual/MOUSE_0.99/reports/YY1/COBIND_analysis_report_YY1.html)
 
 </details>
-
-### **Rattus norvegicus**
-
-<img src=./images/species_icons/RAT.png height = '20px'></img>  
+<br/> <img src=./images/species_icons/RAT.png height = '20px'></img>
+##\# **Rattus norvegicus** <br/>
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
 </summary>
 
--   [BATF-JUN](./COBIND_results/individual/RAT_0.99/reports/BATF-JUN/COBIND_analysis_report_BATF-JUN.html)
+<br/> \*
+[BATF-JUN](./COBIND_results/individual/RAT_0.99/reports/BATF-JUN/COBIND_analysis_report_BATF-JUN.html)
 
 -   [FOS-JUN](./COBIND_results/individual/RAT_0.99/reports/FOS-JUN/COBIND_analysis_report_FOS-JUN.html)
 
@@ -861,7 +857,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 </details>
 
-<br/><br/>
+<br/> <br/>
 
 ## Transcription factor families
 
