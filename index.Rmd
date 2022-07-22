@@ -33,9 +33,12 @@ This page contains results from COBIND 2022 analysis. We analysed 8,792 datasets
 
 Reports about discovered co-binders are provided for each TF (where at least one co-binder was discovered) in different species. Another group of reports report the discovered co-binders summarized over TF families.
 
-# Individual transcription factors #
 
 ```{r individual_reports, cache = TRUE, echo = FALSE, eval = TRUE, include = TRUE, results = 'asis'}
+
+##----------------##
+## Species labels ##
+##----------------##
 
 ## Species table:
 species_tab           <- as.data.frame(cbind(c("ARABIDOPSIS", "CELEGANS", "DRERIO",
@@ -46,14 +49,32 @@ species_tab           <- as.data.frame(cbind(c("ARABIDOPSIS", "CELEGANS", "DRERI
                                                "DROSOPHILA.png", "HUMAN.png", "MOUSE.png", "RAT.png")))
 colnames(species_tab) <- c("species_ID", "species_name", "icon_path")
 
-## Directories:
-icons.dir             <- "images/species_icons"
-results_dir           <- "COBIND_results/individual"
-list.of.species.dirs  <- list.dirs(results_dir, recursive = FALSE)
+##-------------##
+## Directories ##
+##-------------##
 
-## Creating reports lists:
-for (species.dir in list.of.species.dirs) {
+icons.dir             <- "images/species_icons"
+
+## Individual:
+individual_results_dir          <- "COBIND_results/individual"
+list.of.species.dirs.individual <- list.dirs(individual_results_dir, recursive = FALSE)
+
+## Families:
+families_results_dir            <- "COBIND_results/families"
+list.of.species.dirs.families   <- list.dirs(families_results_dir, recursive = FALSE)
+
+##---------------------##
+## Listing the reports ##
+##---------------------##
+
+for (species.dir in list.of.species.dirs.individual) {
   
+  ## Families dir:
+  families.species.dir <- gsub(species.dir, 
+                               pattern = "\\/individual\\/", 
+                               replacement = "\\/families\\/")
+  
+  ## Species name:
   species_thr     <- basename(species.dir)
   species_name_ID <- unlist(strsplit(species_thr, "_"))[1]
   species_name    <- species_tab %>%
@@ -63,24 +84,28 @@ for (species.dir in list.of.species.dirs) {
   species_icon_path <- file.path(icons.dir, species_name$icon_path)
   species_name      <- species_name$species_name
   
-  ## Listing all available reports:
-  list.of.reports   <- list.files(species.dir,
-                                  pattern = ".html",
-                                  recursive = TRUE,
-                                  full.names = TRUE)
 
-  cat(paste0("## **", species_name, "**"))
+
+  cat(paste0("# **", species_name, "**"))
   cat("<picture>")
   cat(paste0("\n<br/>\n<img src=./",
              species_icon_path,
              " height = '100px'></img>\n"))
   cat("</picture>\n<br/>\n")
 
-
-  cat("<details markdown='1'>")
-  cat("\t<summary><b>Results</b></summary>\n")
+  ##------------##
+  ## Individual ##
+  ##------------##
+  ## Listing all available reports:
+  list.of.individual.reports <- list.files(species.dir,
+                                           pattern = ".html",
+                                           recursive = TRUE,
+                                           full.names = TRUE)
   
-  for (report.path in list.of.reports) {
+  cat("<details markdown='1'>")
+  cat("\t<summary><b>Results for individual TFs</b></summary>\n")
+  
+  for (report.path in list.of.individual.reports) {
 
     tf_name <- basename(dirname(report.path))
 
@@ -93,13 +118,36 @@ for (species.dir in list.of.species.dirs) {
   }
   
   cat("</details>\n")
+  
+  ##----------##
+  ## Families ##
+  ##----------##
+  ## Listing all available reports:
+  list.of.families.reports <- list.files(species.dir,
+                                         pattern = ".html",
+                                         recursive = TRUE,
+                                         full.names = TRUE)
+  
+  cat("<details markdown='1'>")
+  cat("\t<summary><b>Results for TF families</b></summary>\n")
+  
+  for (report.path in list.of.individual.reports) {
 
+    tf_name <- basename(dirname(report.path))
+
+    # cat(paste0("\t\t - [", tf_name, "](", report.path,")\n"))
+    cat(paste0("<p><a href='", report.path, 
+               "'>",
+               tf_name,
+               "</a></p>"))
+
+  }
+  
+  cat("</details>\n")
 }
 
+
 ```
-
-
-# Transcription factor families #
 
 
 ## References ##
