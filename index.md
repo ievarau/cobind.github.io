@@ -29,7 +29,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Arabidopsis thaliana**
 
-![species_icon](images/species_icons/ARABIDOPSIS.jpg){:height=‘10px’}  
+\[\[images/species_icons/ARABIDOPSIS.jpg\|height=20px\]\]
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -52,7 +52,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Caenorhabditis elegans**
 
-![species_icon](images/species_icons/CELEGANS.png){:height=‘10px’}  
+\[\[images/species_icons/CELEGANS.png\|height=20px\]\]
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -65,7 +65,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Danio rerio**
 
-![species_icon](images/species_icons/DRERIO.png){:height=‘10px’}  
+\[\[images/species_icons/DRERIO.png\|height=20px\]\]
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -77,7 +77,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Drosophila melanogaster**
 
-![species_icon](images/species_icons/DROSOPHILA.svg){:height=‘10px’}  
+\[\[images/species_icons/DROSOPHILA.svg\|height=20px\]\]
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -98,7 +98,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Homo sapiens**
 
-![species_icon](images/species_icons/HUMAN.svg){:height=‘10px’}  
+\[\[images/species_icons/HUMAN.svg\|height=20px\]\]
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -277,7 +277,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Mus musculus**
 
-![species_icon](images/species_icons/MOUSE.svg){:height=‘10px’}  
+\[\[images/species_icons/MOUSE.svg\|height=20px\]\]
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -462,7 +462,7 @@ of reports report the discovered co-binders summarized over TF families.
 
 #### **Rattus norvegicus**
 
-![species_icon](images/species_icons/RAT.svg){:height=‘10px’}  
+\[\[images/species_icons/RAT.svg\|height=20px\]\]
 <details>
 <summary>
 <b> Click to access results for each TF. </b>
@@ -485,6 +485,8 @@ of reports report the discovered co-binders summarized over TF families.
 -   [TCF7L2](COBIND_results/individual/RAT_0.99/reports/TCF7L2/COBIND_analysis_report_TCF7L2.html)
 
 </details>
+
+[ABF1](COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF1/COBIND_analysis_report_ABF1.html)
 
 ### Transcription factor families
 
