@@ -30,17 +30,11 @@ of reports report the discovered co-binders summarized over TF families.
 #### **Arabidopsis thaliana**
 
 <p align="center">
-
-<div style="text-align:center">
-
-<img src=images/species_icons/ARABIDOPSIS.jpg height = '20px'/>
-
-</div>
-
+<img style='text-align:center'><img src=./images/species_icons/ARABIDOPSIS.jpg height = '20px'/></img>
 </p>
 <details>
 <summary>
-<b> Click to access results for each TF! </b>
+<b> Click to access results for each TF. </b>
 </summary>
 
 -   [ABF1](COBIND_results/individual/ARABIDOPSIS_0.99/reports/ABF1/COBIND_analysis_report_ABF1.html)
@@ -61,17 +55,11 @@ of reports report the discovered co-binders summarized over TF families.
 #### **Caenorhabditis elegans**
 
 <p align="center">
-
-<div style="text-align:center">
-
-<img src=images/species_icons/CELEGANS.png height = '20px'/>
-
-</div>
-
+<img style='text-align:center'><img src=./images/species_icons/CELEGANS.png height = '20px'/></img>
 </p>
 <details>
 <summary>
-<b> Click to access results for each TF! </b>
+<b> Click to access results for each TF. </b>
 </summary>
 
 -   [EFL-1](COBIND_results/individual/CELEGANS_0.99/reports/EFL-1/COBIND_analysis_report_EFL-1.html)
@@ -82,17 +70,11 @@ of reports report the discovered co-binders summarized over TF families.
 #### **Danio rerio**
 
 <p align="center">
-
-<div style="text-align:center">
-
-<img src=images/species_icons/DRERIO.png height = '20px'/>
-
-</div>
-
+<img style='text-align:center'><img src=./images/species_icons/DRERIO.png height = '20px'/></img>
 </p>
 <details>
 <summary>
-<b> Click to access results for each TF! </b>
+<b> Click to access results for each TF. </b>
 </summary>
 
 -   [CTCF](COBIND_results/individual/DRERIO_0.99/reports/CTCF/COBIND_analysis_report_CTCF.html)
@@ -102,17 +84,11 @@ of reports report the discovered co-binders summarized over TF families.
 #### **Drosophila melanogaster**
 
 <p align="center">
-
-<div style="text-align:center">
-
-<img src=images/species_icons/DROSOPHILA.svg height = '20px'/>
-
-</div>
-
+<img style='text-align:center'><img src=./images/species_icons/DROSOPHILA.svg height = '20px'/></img>
 </p>
 <details>
 <summary>
-<b> Click to access results for each TF! </b>
+<b> Click to access results for each TF. </b>
 </summary>
 
 -   [BEAF-32](COBIND_results/individual/DROSOPHILA_0.99/reports/BEAF-32/COBIND_analysis_report_BEAF-32.html)
@@ -131,17 +107,11 @@ of reports report the discovered co-binders summarized over TF families.
 #### **Homo sapiens**
 
 <p align="center">
-
-<div style="text-align:center">
-
-<img src=images/species_icons/HUMAN.svg height = '20px'/>
-
-</div>
-
+<img style='text-align:center'><img src=./images/species_icons/HUMAN.svg height = '20px'/></img>
 </p>
 <details>
 <summary>
-<b> Click to access results for each TF! </b>
+<b> Click to access results for each TF. </b>
 </summary>
 
 -   [AR](COBIND_results/individual/HUMAN_0.99/reports/AR/COBIND_analysis_report_AR.html)
@@ -318,17 +288,11 @@ of reports report the discovered co-binders summarized over TF families.
 #### **Mus musculus**
 
 <p align="center">
-
-<div style="text-align:center">
-
-<img src=images/species_icons/MOUSE.svg height = '20px'/>
-
-</div>
-
+<img style='text-align:center'><img src=./images/species_icons/MOUSE.svg height = '20px'/></img>
 </p>
 <details>
 <summary>
-<b> Click to access results for each TF! </b>
+<b> Click to access results for each TF. </b>
 </summary>
 
 -   [AR](COBIND_results/individual/MOUSE_0.99/reports/AR/COBIND_analysis_report_AR.html)
@@ -511,17 +475,11 @@ of reports report the discovered co-binders summarized over TF families.
 #### **Rattus norvegicus**
 
 <p align="center">
-
-<div style="text-align:center">
-
-<img src=images/species_icons/RAT.svg height = '20px'/>
-
-</div>
-
+<img style='text-align:center'><img src=./images/species_icons/RAT.svg height = '20px'/></img>
 </p>
 <details>
 <summary>
-<b> Click to access results for each TF! </b>
+<b> Click to access results for each TF. </b>
 </summary>
 
 -   [BATF-JUN](COBIND_results/individual/RAT_0.99/reports/BATF-JUN/COBIND_analysis_report_BATF-JUN.html)
