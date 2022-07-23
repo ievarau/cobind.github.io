@@ -23,8 +23,8 @@ of reports report the discovered co-binders summarized over TF families.
 
 # **Arabidopsis thaliana**
 
-<img src='images/species_icons/ARABIDOPSIS.png' class='img-responsive' alt='' height = '100px'></img>
-
+<img src='images/species_icons/ARABIDOPSIS.png' class='img-responsive' alt='' height = '100px'>
+</div>
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -70,12 +70,18 @@ of reports report the discovered co-binders summarized over TF families.
 <summary>
 <b>Results for TF families</b>
 </summary>
+<p>
+<a href='COBIND_results/families/ARABIDOPSIS_0.99/reports/MybSANT_domain_factors/COBIND_analysis_report_MybSANT_domain_factors.html'>MybSANT_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/ARABIDOPSIS_0.99/reports/no-family-arabidopsis/COBIND_analysis_report_no-family-arabidopsis.html'>no-family-arabidopsis</a>
+</p>
 </details>
 
 # **Caenorhabditis elegans**
 
-<img src='images/species_icons/CELEGANS.png' class='img-responsive' alt='' height = '100px'></img>
-
+<img src='images/species_icons/CELEGANS.png' class='img-responsive' alt='' height = '100px'>
+</div>
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -91,12 +97,18 @@ of reports report the discovered co-binders summarized over TF families.
 <summary>
 <b>Results for TF families</b>
 </summary>
+<p>
+<a href='COBIND_results/families/CELEGANS_0.99/reports/E2F-related_factors/COBIND_analysis_report_E2F-related_factors.html'>E2F-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/CELEGANS_0.99/reports/Forkhead_box_FOX_factors/COBIND_analysis_report_Forkhead_box_FOX_factors.html'>Forkhead_box_FOX_factors</a>
+</p>
 </details>
 
 # **Danio rerio**
 
-<img src='images/species_icons/DRERIO.png' class='img-responsive' alt='' height = '100px'></img>
-
+<img src='images/species_icons/DRERIO.png' class='img-responsive' alt='' height = '100px'>
+</div>
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -109,12 +121,15 @@ of reports report the discovered co-binders summarized over TF families.
 <summary>
 <b>Results for TF families</b>
 </summary>
+<p>
+<a href='COBIND_results/families/DRERIO_0.99/reports/More_than_3_adjacent_zinc_finger_factors/COBIND_analysis_report_More_than_3_adjacent_zinc_finger_factors.html'>More_than_3\_adjacent_zinc_finger_factors</a>
+</p>
 </details>
 
 # **Drosophila melanogaster**
 
-<img src='images/species_icons/DROSOPHILA.png' class='img-responsive' alt='' height = '100px'></img>
-
+<img src='images/species_icons/DROSOPHILA.png' class='img-responsive' alt='' height = '100px'>
+</div>
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -154,12 +169,24 @@ of reports report the discovered co-binders summarized over TF families.
 <summary>
 <b>Results for TF families</b>
 </summary>
+<p>
+<a href='COBIND_results/families/DROSOPHILA_0.99/reports/Grainyhead-related_factors/COBIND_analysis_report_Grainyhead-related_factors.html'>Grainyhead-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/DROSOPHILA_0.99/reports/HSF_factors/COBIND_analysis_report_HSF_factors.html'>HSF_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/DROSOPHILA_0.99/reports/More_than_3_adjacent_zinc_finger_factors/COBIND_analysis_report_More_than_3_adjacent_zinc_finger_factors.html'>More_than_3\_adjacent_zinc_finger_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/DROSOPHILA_0.99/reports/no-family-drosophila/COBIND_analysis_report_no-family-drosophila.html'>no-family-drosophila</a>
+</p>
 </details>
 
 # **Homo sapiens**
 
-<img src='images/species_icons/HUMAN.png' class='img-responsive' alt='' height = '100px'></img>
-
+<img src='images/species_icons/HUMAN.png' class='img-responsive' alt='' height = '100px'>
+</div>
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -673,12 +700,201 @@ of reports report the discovered co-binders summarized over TF families.
 <summary>
 <b>Results for TF families</b>
 </summary>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/AP-2/COBIND_analysis_report_AP-2.html'>AP-2</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/B-ATF-related_factors-Jun-related_factors/COBIND_analysis_report_B-ATF-related_factors-Jun-related_factors.html'>B-ATF-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/B-ATF-related_factors/COBIND_analysis_report_B-ATF-related_factors.html'>B-ATF-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/bHLH-ZIP_factors-bHLH-ZIP_factors/COBIND_analysis_report_bHLH-ZIP_factors-bHLH-ZIP_factors.html'>bHLH-ZIP_factors-bHLH-ZIP_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/bHLH-ZIP_factors/COBIND_analysis_report_bHLH-ZIP_factors.html'>bHLH-ZIP_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Brachyury-related_factors/COBIND_analysis_report_Brachyury-related_factors.html'>Brachyury-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/CEBP-related_factors-CEBP-related_factors/COBIND_analysis_report_CEBP-related_factors-CEBP-related_factors.html'>CEBP-related_factors-CEBP-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/CEBP-related_factors/COBIND_analysis_report_CEBP-related_factors.html'>CEBP-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/CREB-related_factors/COBIND_analysis_report_CREB-related_factors.html'>CREB-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/CSL-related_factors/COBIND_analysis_report_CSL-related_factors.html'>CSL-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/E2A-related_factors/COBIND_analysis_report_E2A-related_factors.html'>E2A-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Ets-related_factors/COBIND_analysis_report_Ets-related_factors.html'>Ets-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Factors_with_multiple_dispersed_zinc_fingers/COBIND_analysis_report_Factors_with_multiple_dispersed_zinc_fingers.html'>Factors_with_multiple_dispersed_zinc_fingers</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Forkhead_box_FOX_factors/COBIND_analysis_report_Forkhead_box_FOX_factors.html'>Forkhead_box_FOX_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Fos-related_factors-Jun-related_factors/COBIND_analysis_report_Fos-related_factors-Jun-related_factors.html'>Fos-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Fos-related_factors/COBIND_analysis_report_Fos-related_factors.html'>Fos-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/GATA-type_zinc_fingers-Tal-related_factors/COBIND_analysis_report_GATA-type_zinc_fingers-Tal-related_factors.html'>GATA-type_zinc_fingers-Tal-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/GATA-type_zinc_fingers/COBIND_analysis_report_GATA-type_zinc_fingers.html'>GATA-type_zinc_fingers</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Grainyhead-related_factors/COBIND_analysis_report_Grainyhead-related_factors.html'>Grainyhead-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/HD-CUT_factors/COBIND_analysis_report_HD-CUT_factors.html'>HD-CUT_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/HD-LIM_factors/COBIND_analysis_report_HD-LIM_factors.html'>HD-LIM_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/HD-SINE_factors/COBIND_analysis_report_HD-SINE_factors.html'>HD-SINE_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/HOX-related_factors/COBIND_analysis_report_HOX-related_factors.html'>HOX-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/HSF_factors/COBIND_analysis_report_HSF_factors.html'>HSF_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Interferon-regulatory_factors/COBIND_analysis_report_Interferon-regulatory_factors.html'>Interferon-regulatory_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Jun-related_factors-Jun-related_factors/COBIND_analysis_report_Jun-related_factors-Jun-related_factors.html'>Jun-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Jun-related_factors/COBIND_analysis_report_Jun-related_factors.html'>Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Maf-related_factors-Jun-related_factors/COBIND_analysis_report_Maf-related_factors-Jun-related_factors.html'>Maf-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Maf-related_factors/COBIND_analysis_report_Maf-related_factors.html'>Maf-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/More_than_3_adjacent_zinc_finger_factors/COBIND_analysis_report_More_than_3_adjacent_zinc_finger_factors.html'>More_than_3\_adjacent_zinc_finger_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/MyoD-ASC-related_factors/COBIND_analysis_report_MyoD-ASC-related_factors.html'>MyoD-ASC-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/NF-kappaB-related_factors/COBIND_analysis_report_NF-kappaB-related_factors.html'>NF-kappaB-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/NGFI-B-related_receptors_NR4-RXR-related_receptors_NR2/COBIND_analysis_report_NGFI-B-related_receptors_NR4-RXR-related_receptors_NR2.html'>NGFI-B-related_receptors_NR4-RXR-related_receptors_NR2</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Nuclear_factor_1/COBIND_analysis_report_Nuclear_factor_1.html'>Nuclear_factor_1</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/p53-related_factors/COBIND_analysis_report_p53-related_factors.html'>p53-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Paired_domain_only/COBIND_analysis_report_Paired_domain_only.html'>Paired_domain_only</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Paired_plus_homeo_domain/COBIND_analysis_report_Paired_plus_homeo_domain.html'>Paired_plus_homeo_domain</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/PAS_domain_factors-PAS_domain_factors/COBIND_analysis_report_PAS_domain_factors-PAS_domain_factors.html'>PAS_domain_factors-PAS_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/PAS_domain_factors/COBIND_analysis_report_PAS_domain_factors.html'>PAS_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/POU_domain_factors-SOX-related_factors/COBIND_analysis_report_POU_domain_factors-SOX-related_factors.html'>POU_domain_factors-SOX-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/POU_domain_factors/COBIND_analysis_report_POU_domain_factors.html'>POU_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Regulators_of_differentiation/COBIND_analysis_report_Regulators_of_differentiation.html'>Regulators_of_differentiation</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/RFX-related_factors/COBIND_analysis_report_RFX-related_factors.html'>RFX-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Runt-related_factors/COBIND_analysis_report_Runt-related_factors.html'>Runt-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/RXR-related_receptors_NR2-Thyroid_hormone_receptor-related_factors_NR1/COBIND_analysis_report_RXR-related_receptors_NR2-Thyroid_hormone_receptor-related_factors_NR1.html'>RXR-related_receptors_NR2-Thyroid_hormone_receptor-related_factors_NR1</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/RXR-related_receptors_NR2/COBIND_analysis_report_RXR-related_receptors_NR2.html'>RXR-related_receptors_NR2</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/SMAD_factors-SMAD_factors-SMAD_factors/COBIND_analysis_report_SMAD_factors-SMAD_factors-SMAD_factors.html'>SMAD_factors-SMAD_factors-SMAD_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/SMAD_factors-SMAD_factors/COBIND_analysis_report_SMAD_factors-SMAD_factors.html'>SMAD_factors-SMAD_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/SMAD_factors/COBIND_analysis_report_SMAD_factors.html'>SMAD_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/SOX-related_factors/COBIND_analysis_report_SOX-related_factors.html'>SOX-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/STAT_factors-STAT_factors/COBIND_analysis_report_STAT_factors-STAT_factors.html'>STAT_factors-STAT_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/STAT_factors/COBIND_analysis_report_STAT_factors.html'>STAT_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Steroid_hormone_receptors_NR3/COBIND_analysis_report_Steroid_hormone_receptors_NR3.html'>Steroid_hormone_receptors_NR3</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Tal-related_factors-E2A-related_factors/COBIND_analysis_report_Tal-related_factors-E2A-related_factors.html'>Tal-related_factors-E2A-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Tal-related_factors/COBIND_analysis_report_Tal-related_factors.html'>Tal-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/TALE-type_homeo_domain_factors/COBIND_analysis_report_TALE-type_homeo_domain_factors.html'>TALE-type_homeo_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/TBX2-related_factors/COBIND_analysis_report_TBX2-related_factors.html'>TBX2-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/TCF-7-related_factors/COBIND_analysis_report_TCF-7-related_factors.html'>TCF-7-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/TEF-1-related_factors/COBIND_analysis_report_TEF-1-related_factors.html'>TEF-1-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/THAP-related_factors/COBIND_analysis_report_THAP-related_factors.html'>THAP-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Three-zinc_finger_Kruppel-related_factors/COBIND_analysis_report_Three-zinc_finger_Kruppel-related_factors.html'>Three-zinc_finger_Kruppel-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1-RXR-related_receptors_NR2/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1-RXR-related_receptors_NR2.html'>Thyroid_hormone_receptor-related_factors_NR1-RXR-related_receptors_NR2</a>
+</p>
+<p>
+<a href='COBIND_results/families/HUMAN_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1.html'>Thyroid_hormone_receptor-related_factors_NR1</a>
+</p>
 </details>
 
 # **Mus musculus**
 
-<img src='images/species_icons/MOUSE.png' class='img-responsive' alt='' height = '100px'></img>
-
+<img src='images/species_icons/MOUSE.png' class='img-responsive' alt='' height = '100px'>
+</div>
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -1210,12 +1426,204 @@ of reports report the discovered co-binders summarized over TF families.
 <summary>
 <b>Results for TF families</b>
 </summary>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/ATF-4-related_factors/COBIND_analysis_report_ATF-4-related_factors.html'>ATF-4-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/B-ATF-related_factors-Jun-related_factors/COBIND_analysis_report_B-ATF-related_factors-Jun-related_factors.html'>B-ATF-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/B-ATF-related_factors/COBIND_analysis_report_B-ATF-related_factors.html'>B-ATF-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/bHLH-ZIP_factors/COBIND_analysis_report_bHLH-ZIP_factors.html'>bHLH-ZIP_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/CEBP-related_factors-CEBP-related_factors/COBIND_analysis_report_CEBP-related_factors-CEBP-related_factors.html'>CEBP-related_factors-CEBP-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/CEBP-related_factors/COBIND_analysis_report_CEBP-related_factors.html'>CEBP-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/CREB-related_factors/COBIND_analysis_report_CREB-related_factors.html'>CREB-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/CSL-related_factors/COBIND_analysis_report_CSL-related_factors.html'>CSL-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/DMRT_factors/COBIND_analysis_report_DMRT_factors.html'>DMRT_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/E2A-related_factors/COBIND_analysis_report_E2A-related_factors.html'>E2A-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Ets-related_factors/COBIND_analysis_report_Ets-related_factors.html'>Ets-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Factors_with_multiple_dispersed_zinc_fingers/COBIND_analysis_report_Factors_with_multiple_dispersed_zinc_fingers.html'>Factors_with_multiple_dispersed_zinc_fingers</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Forkhead_box_FOX_factors/COBIND_analysis_report_Forkhead_box_FOX_factors.html'>Forkhead_box_FOX_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Fos-related_factors-Jun-related_factors/COBIND_analysis_report_Fos-related_factors-Jun-related_factors.html'>Fos-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Fos-related_factors/COBIND_analysis_report_Fos-related_factors.html'>Fos-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/GATA-type_zinc_fingers-Tal-related_factors/COBIND_analysis_report_GATA-type_zinc_fingers-Tal-related_factors.html'>GATA-type_zinc_fingers-Tal-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/GATA-type_zinc_fingers/COBIND_analysis_report_GATA-type_zinc_fingers.html'>GATA-type_zinc_fingers</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Grainyhead-related_factors/COBIND_analysis_report_Grainyhead-related_factors.html'>Grainyhead-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/HD-CUT_factors/COBIND_analysis_report_HD-CUT_factors.html'>HD-CUT_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/HD-LIM_factors/COBIND_analysis_report_HD-LIM_factors.html'>HD-LIM_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/HOX-related_factors/COBIND_analysis_report_HOX-related_factors.html'>HOX-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/HSF_factors/COBIND_analysis_report_HSF_factors.html'>HSF_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Interferon-regulatory_factors/COBIND_analysis_report_Interferon-regulatory_factors.html'>Interferon-regulatory_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Jun-related_factors-Jun-related_factors/COBIND_analysis_report_Jun-related_factors-Jun-related_factors.html'>Jun-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Jun-related_factors-Maf-related_factors/COBIND_analysis_report_Jun-related_factors-Maf-related_factors.html'>Jun-related_factors-Maf-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Jun-related_factors/COBIND_analysis_report_Jun-related_factors.html'>Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Maf-related_factors-Jun-related_factors/COBIND_analysis_report_Maf-related_factors-Jun-related_factors.html'>Maf-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Maf-related_factors/COBIND_analysis_report_Maf-related_factors.html'>Maf-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/More_than_3_adjacent_zinc_finger_factors/COBIND_analysis_report_More_than_3_adjacent_zinc_finger_factors.html'>More_than_3\_adjacent_zinc_finger_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/MybSANT_domain_factors/COBIND_analysis_report_MybSANT_domain_factors.html'>MybSANT_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/MyoD-ASC-related_factors/COBIND_analysis_report_MyoD-ASC-related_factors.html'>MyoD-ASC-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/NF-kappaB-related_factors/COBIND_analysis_report_NF-kappaB-related_factors.html'>NF-kappaB-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/NFAT-related_factors/COBIND_analysis_report_NFAT-related_factors.html'>NFAT-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/NFY/COBIND_analysis_report_NFY.html'>NFY</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/NGFI-B-related_receptors_NR4-RXR-related_receptors_NR2/COBIND_analysis_report_NGFI-B-related_receptors_NR4-RXR-related_receptors_NR2.html'>NGFI-B-related_receptors_NR4-RXR-related_receptors_NR2</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/NK-related_factors/COBIND_analysis_report_NK-related_factors.html'>NK-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/no-family-mouse/COBIND_analysis_report_no-family-mouse.html'>no-family-mouse</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Nuclear_factor_1/COBIND_analysis_report_Nuclear_factor_1.html'>Nuclear_factor_1</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Paired_domain_only/COBIND_analysis_report_Paired_domain_only.html'>Paired_domain_only</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Paired_plus_homeo_domain/COBIND_analysis_report_Paired_plus_homeo_domain.html'>Paired_plus_homeo_domain</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Paired-related_HD_factors/COBIND_analysis_report_Paired-related_HD_factors.html'>Paired-related_HD_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/PAS_domain_factors/COBIND_analysis_report_PAS_domain_factors.html'>PAS_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/POU_domain_factors-SOX-related_factors/COBIND_analysis_report_POU_domain_factors-SOX-related_factors.html'>POU_domain_factors-SOX-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/POU_domain_factors/COBIND_analysis_report_POU_domain_factors.html'>POU_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Regulators_of_differentiation/COBIND_analysis_report_Regulators_of_differentiation.html'>Regulators_of_differentiation</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Responders_to_external_signals_SRFRLM1/COBIND_analysis_report_Responders_to_external_signals_SRFRLM1.html'>Responders_to_external_signals_SRFRLM1</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/RFX-related_factors/COBIND_analysis_report_RFX-related_factors.html'>RFX-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Runt-related_factors/COBIND_analysis_report_Runt-related_factors.html'>Runt-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/RXR-related_receptors_NR2-Thyroid_hormone_receptor-related_factors_NR1/COBIND_analysis_report_RXR-related_receptors_NR2-Thyroid_hormone_receptor-related_factors_NR1.html'>RXR-related_receptors_NR2-Thyroid_hormone_receptor-related_factors_NR1</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/RXR-related_receptors_NR2/COBIND_analysis_report_RXR-related_receptors_NR2.html'>RXR-related_receptors_NR2</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/SMAD_factors/COBIND_analysis_report_SMAD_factors.html'>SMAD_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/SOX-related_factors/COBIND_analysis_report_SOX-related_factors.html'>SOX-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/STAT_factors-STAT_factors/COBIND_analysis_report_STAT_factors-STAT_factors.html'>STAT_factors-STAT_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/STAT_factors/COBIND_analysis_report_STAT_factors.html'>STAT_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Steroid_hormone_receptors_NR3/COBIND_analysis_report_Steroid_hormone_receptors_NR3.html'>Steroid_hormone_receptors_NR3</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Tal-related_factors-E2A-related_factors/COBIND_analysis_report_Tal-related_factors-E2A-related_factors.html'>Tal-related_factors-E2A-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Tal-related_factors/COBIND_analysis_report_Tal-related_factors.html'>Tal-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/TALE-type_homeo_domain_factors/COBIND_analysis_report_TALE-type_homeo_domain_factors.html'>TALE-type_homeo_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/TBrain-related_factors/COBIND_analysis_report_TBrain-related_factors.html'>TBrain-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/TEF-1-related_factors/COBIND_analysis_report_TEF-1-related_factors.html'>TEF-1-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Three-zinc_finger_Kruppel-related_factors/COBIND_analysis_report_Three-zinc_finger_Kruppel-related_factors.html'>Three-zinc_finger_Kruppel-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1-RXR-related_receptors_NR2/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1-RXR-related_receptors_NR2.html'>Thyroid_hormone_receptor-related_factors_NR1-RXR-related_receptors_NR2</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1.html'>Thyroid_hormone_receptor-related_factors_NR1</a>
+</p>
+<p>
+<a href='COBIND_results/families/MOUSE_0.99/reports/XBP-1-related_factors/COBIND_analysis_report_XBP-1-related_factors.html'>XBP-1-related_factors</a>
+</p>
 </details>
 
 # **Rattus norvegicus**
 
-<img src='images/species_icons/RAT.png' class='img-responsive' alt='' height = '100px'></img>
-
+<img src='images/species_icons/RAT.png' class='img-responsive' alt='' height = '100px'>
+</div>
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -1270,6 +1678,42 @@ of reports report the discovered co-binders summarized over TF families.
 <summary>
 <b>Results for TF families</b>
 </summary>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/B-ATF-related_factors-Jun-related_factors/COBIND_analysis_report_B-ATF-related_factors-Jun-related_factors.html'>B-ATF-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/bHLH-ZIP_factors/COBIND_analysis_report_bHLH-ZIP_factors.html'>bHLH-ZIP_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/Fos-related_factors-Jun-related_factors/COBIND_analysis_report_Fos-related_factors-Jun-related_factors.html'>Fos-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/Jun-related_factors-Jun-related_factors/COBIND_analysis_report_Jun-related_factors-Jun-related_factors.html'>Jun-related_factors-Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/Jun-related_factors/COBIND_analysis_report_Jun-related_factors.html'>Jun-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/POU_domain_factors/COBIND_analysis_report_POU_domain_factors.html'>POU_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/RXR-related_receptors_NR2/COBIND_analysis_report_RXR-related_receptors_NR2.html'>RXR-related_receptors_NR2</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/SOX-related_factors/COBIND_analysis_report_SOX-related_factors.html'>SOX-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/Tal-related_factors/COBIND_analysis_report_Tal-related_factors.html'>Tal-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/TCF-7-related_factors/COBIND_analysis_report_TCF-7-related_factors.html'>TCF-7-related_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1-RXR-related_receptors_NR2/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1-RXR-related_receptors_NR2.html'>Thyroid_hormone_receptor-related_factors_NR1-RXR-related_receptors_NR2</a>
+</p>
+<p>
+<a href='COBIND_results/families/RAT_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1.html'>Thyroid_hormone_receptor-related_factors_NR1</a>
+</p>
 </details>
 
 ## References
