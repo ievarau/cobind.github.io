@@ -144,6 +144,8 @@ for (species.dir in list.of.species.dirs.individual) {
   }
   
   cat("</details>\n")
+  cat("<br>\n")
+  cat("\n")
 }
 
 

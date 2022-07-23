@@ -78,6 +78,8 @@ of reports report the discovered co-binders summarized over TF families.
 </p>
 </details>
 
+<br>
+
 # **Caenorhabditis elegans**
 
 <img src='images/species_icons/CELEGANS.png' class='img-responsive' alt='' height = '100px'>
@@ -105,6 +107,8 @@ of reports report the discovered co-binders summarized over TF families.
 </p>
 </details>
 
+<br>
+
 # **Danio rerio**
 
 <img src='images/species_icons/DRERIO.png' class='img-responsive' alt='' height = '100px'>
@@ -125,6 +129,8 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/families/DRERIO_0.99/reports/More_than_3_adjacent_zinc_finger_factors/COBIND_analysis_report_More_than_3_adjacent_zinc_finger_factors.html'>More_than_3\_adjacent_zinc_finger_factors</a>
 </p>
 </details>
+
+<br>
 
 # **Drosophila melanogaster**
 
@@ -182,6 +188,8 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/families/DROSOPHILA_0.99/reports/no-family-drosophila/COBIND_analysis_report_no-family-drosophila.html'>no-family-drosophila</a>
 </p>
 </details>
+
+<br>
 
 # **Homo sapiens**
 
@@ -890,6 +898,8 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/families/HUMAN_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1.html'>Thyroid_hormone_receptor-related_factors_NR1</a>
 </p>
 </details>
+
+<br>
 
 # **Mus musculus**
 
@@ -1620,6 +1630,8 @@ of reports report the discovered co-binders summarized over TF families.
 </p>
 </details>
 
+<br>
+
 # **Rattus norvegicus**
 
 <img src='images/species_icons/RAT.png' class='img-responsive' alt='' height = '100px'>
@@ -1715,6 +1727,8 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/families/RAT_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1.html'>Thyroid_hormone_receptor-related_factors_NR1</a>
 </p>
 </details>
+
+<br>
 
 ## References
 
