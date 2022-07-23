@@ -89,7 +89,7 @@ for (species.dir in list.of.species.dirs.individual) {
   cat(paste0("# **", species_name, "**"))
   cat(paste0("\n<img src='",
              species_icon_path,
-             "' class='img-responsive' alt='' height = '100px'></div>\n"))
+             "' class='img-responsive' alt='' height = '100px'>\n"))
   # cat(paste0("\n<img src="img/screenshot2.PNG" class="img-responsive" alt=""> </div>))
   cat("\n\n")
 
@@ -103,7 +103,7 @@ for (species.dir in list.of.species.dirs.individual) {
                                            full.names = TRUE)
   
   cat("<details markdown='1'>")
-  cat("\t<summary><b>Results for individual TFs</b></summary>\n")
+  cat("\t<summary><b>Results for individual TFs</b></summary>\n\n")
   
   for (report.path in list.of.individual.reports) {
 
@@ -129,7 +129,7 @@ for (species.dir in list.of.species.dirs.individual) {
                                          full.names = TRUE)
   
   cat("<details markdown='1'>")
-  cat("\t<summary><b>Results for TF families</b></summary>\n")
+  cat("\t<summary><b>Results for TF families</b></summary>\n\n")
   
   for (report.path in list.of.families.reports) {
 

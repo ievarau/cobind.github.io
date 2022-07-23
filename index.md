@@ -24,7 +24,7 @@ of reports report the discovered co-binders summarized over TF families.
 # **Arabidopsis thaliana**
 
 <img src='images/species_icons/ARABIDOPSIS.png' class='img-responsive' alt='' height = '100px'>
-</div>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -83,7 +83,7 @@ of reports report the discovered co-binders summarized over TF families.
 # **Caenorhabditis elegans**
 
 <img src='images/species_icons/CELEGANS.png' class='img-responsive' alt='' height = '100px'>
-</div>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -112,7 +112,7 @@ of reports report the discovered co-binders summarized over TF families.
 # **Danio rerio**
 
 <img src='images/species_icons/DRERIO.png' class='img-responsive' alt='' height = '100px'>
-</div>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -135,7 +135,7 @@ of reports report the discovered co-binders summarized over TF families.
 # **Drosophila melanogaster**
 
 <img src='images/species_icons/DROSOPHILA.png' class='img-responsive' alt='' height = '100px'>
-</div>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -194,7 +194,7 @@ of reports report the discovered co-binders summarized over TF families.
 # **Homo sapiens**
 
 <img src='images/species_icons/HUMAN.png' class='img-responsive' alt='' height = '100px'>
-</div>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -904,7 +904,7 @@ of reports report the discovered co-binders summarized over TF families.
 # **Mus musculus**
 
 <img src='images/species_icons/MOUSE.png' class='img-responsive' alt='' height = '100px'>
-</div>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
@@ -1635,7 +1635,7 @@ of reports report the discovered co-binders summarized over TF families.
 # **Rattus norvegicus**
 
 <img src='images/species_icons/RAT.png' class='img-responsive' alt='' height = '100px'>
-</div>
+
 <details>
 <summary>
 <b>Results for individual TFs</b>
