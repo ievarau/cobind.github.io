@@ -91,10 +91,12 @@ rerio* and *Rattus norvegicus*.
 <br>
 
 <img src='COBIND_results/individual/ARABIDOPSIS_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/individual/ARABIDOPSIS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -106,10 +108,12 @@ co-binders**
 <br>
 
 <img src='COBIND_results/families/ARABIDOPSIS_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/families/ARABIDOPSIS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -152,10 +156,12 @@ co-binders**
 <br>
 
 <img src='COBIND_results/individual/CELEGANS_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/individual/CELEGANS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -167,10 +173,12 @@ co-binders**
 <br>
 
 <img src='COBIND_results/families/CELEGANS_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/families/CELEGANS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -267,10 +275,12 @@ co-binders**
 <br>
 
 <img src='COBIND_results/individual/DROSOPHILA_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/individual/DROSOPHILA_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -282,10 +292,12 @@ co-binders**
 <br>
 
 <img src='COBIND_results/families/DROSOPHILA_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/families/DROSOPHILA_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -1009,10 +1021,12 @@ co-binders**
 <br>
 
 <img src='COBIND_results/individual/HUMAN_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/individual/HUMAN_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -1024,10 +1038,12 @@ co-binders**
 <br>
 
 <img src='COBIND_results/families/HUMAN_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/families/HUMAN_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -1772,10 +1788,12 @@ co-binders**
 <br>
 
 <img src='COBIND_results/individual/MOUSE_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/individual/MOUSE_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -1787,10 +1805,12 @@ co-binders**
 <br>
 
 <img src='COBIND_results/families/MOUSE_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for all co-binders** <br>
+
+**Distribution of conservation p-values for all co-binders** <br>
 
 <img src='COBIND_results/families/MOUSE_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-<br> **Distribution of conservation p-values for top most conserved
+
+**Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
