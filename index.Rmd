@@ -71,22 +71,20 @@ list.of.species.dirs.families   <- list.dirs(families_results_dir, recursive = F
 for (species.dir in list.of.species.dirs.individual) {
   
   ## Families dir:
-  families.species.dir <- gsub(species.dir, 
-                               pattern = "\\/individual\\/", 
-                               replacement = "\\/families\\/")
+  families.species.dir     <- gsub(species.dir, 
+                                   pattern = "\\/individual\\/", 
+                                   replacement = "\\/families\\/")
   
   ## Species name:
-  species_thr     <- basename(species.dir)
-  species_name_ID <- unlist(strsplit(species_thr, "_"))[1]
-  species_name    <- species_tab %>%
-                      dplyr::filter(species_ID == species_name_ID) %>%
-                      dplyr::select(species_name, icon_path)
+  species_thr       <- basename(species.dir)
+  species_name_ID   <- unlist(strsplit(species_thr, "_"))[1]
+  species_name      <- species_tab %>%
+                        dplyr::filter(species_ID == species_name_ID) %>%
+                        dplyr::select(species_name, icon_path)
   
   species_icon_path <- file.path(icons.dir, species_name$icon_path)
   species_name      <- species_name$species_name
   
-
-
   cat(paste0("## **", species_name, "**"))
   cat(paste0("\n<img src='",
              species_icon_path,
@@ -118,7 +116,7 @@ for (species.dir in list.of.species.dirs.individual) {
 
   }
   
-  cat("</details>\n<br>\n")
+  cat("</details>\n\n")
   
   ##----------##
   ## Families ##
@@ -144,11 +142,63 @@ for (species.dir in list.of.species.dirs.individual) {
 
   }
   
+  ##------------------------##
+  ## Conservation summaries ##
+  ##------------------------##
+  
+  ## Adding conservation summaries for certain species:
+  if (species_name_ID != "RAT" | species_name_ID != "DRERIO") {
+    
+    cat("</details>\n\n")
+    
+    ## Individual:
+    individual.top.conservation.path <- file.path(species.dir, "all_pvalues_conservation.pdf")
+    individual.all.conservation.path <- file.path(species.dir, "top_conserved_cobinders_pvalues_conservation.pdf")
+    
+    cat("<details markdown='1'>")
+    cat("\t<summary><b>Conservation summaries from individual TFs analysis</b></summary>\n<br>\n")
+
+    cat(paste0("\n<img src='",
+               individual.all.conservation.path,
+               "' class='img-responsive' alt='' height = '300'>\n"))
+    cat("**Distribution of conservation p-values for all co-binders**\n\n")
+    
+    cat(paste0("\n<img src='",
+               individual.top.conservation.path,
+               "' class='img-responsive' alt='' height = '300'>\n"))
+    cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
+    
+    cat("</details>\n\n")
+  
+    ## Families:
+    families.top.conservation.path <- file.path(families.species.dir, "all_pvalues_conservation.pdf")
+    families.all.conservation.path <- file.path(families.species.dir, "top_conserved_cobinders_pvalues_conservation.pdf")
+    
+    cat("<details markdown='1'>")
+    cat("\t<summary><b>Conservation summaries from TF families analysis</b></summary>\n<br>\n")
+
+    cat(paste0("\n<img src='",
+               families.all.conservation.path,
+               "' class='img-responsive' alt='' height = '300'>\n"))
+    cat("**Distribution of conservation p-values for all co-binders**\n\n")
+    
+    cat(paste0("\n<img src='",
+               families.top.conservation.path,
+               "' class='img-responsive' alt='' height = '300'>\n"))
+    cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
+    
   cat("</details>\n<br>\n")
   cat("<br>\n")
   cat("\n")
-}
+    
+  } else {
+    
+    cat("<br>\n")
+    cat("\n")
+    
+  }
 
+}
 
 ```
 
@@ -220,8 +270,7 @@ for (report.path in list.of.families.individual.reports) {
   }
   
 cat("</details>\n<br>\n")
-cat("<br>\n")
-cat("\n")
+
 
 ```
 

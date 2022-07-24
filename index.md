@@ -69,7 +69,6 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/ARABIDOPSIS_0.99/reports/WRKY40/COBIND_analysis_report_WRKY40.html'>WRKY40</a>
 </p>
 </details>
-<br>
 <details>
 <summary>
 <b>Results for TF families</b>
@@ -81,6 +80,36 @@ of reports report the discovered co-binders summarized over TF families.
 <p>
 <a href='COBIND_results/families/ARABIDOPSIS_0.99/reports/no-family-arabidopsis/COBIND_analysis_report_no-family-arabidopsis.html'>no-family-arabidopsis</a>
 </p>
+</details>
+<details>
+<summary>
+<b>Conservation summaries from individual TFs analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/individual/ARABIDOPSIS_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/individual/ARABIDOPSIS_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
+</details>
+<details>
+<summary>
+<b>Conservation summaries from TF families analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/families/ARABIDOPSIS_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/families/ARABIDOPSIS_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
 </details>
 
 <br> <br>
@@ -101,7 +130,6 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/CELEGANS_0.99/reports/PHA-4/COBIND_analysis_report_PHA-4.html'>PHA-4</a>
 </p>
 </details>
-<br>
 <details>
 <summary>
 <b>Results for TF families</b>
@@ -113,6 +141,36 @@ of reports report the discovered co-binders summarized over TF families.
 <p>
 <a href='COBIND_results/families/CELEGANS_0.99/reports/Forkhead_box_FOX_factors/COBIND_analysis_report_Forkhead_box_FOX_factors.html'>Forkhead_box_FOX_factors</a>
 </p>
+</details>
+<details>
+<summary>
+<b>Conservation summaries from individual TFs analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/individual/CELEGANS_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/individual/CELEGANS_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
+</details>
+<details>
+<summary>
+<b>Conservation summaries from TF families analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/families/CELEGANS_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/families/CELEGANS_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
 </details>
 
 <br> <br>
@@ -130,7 +188,6 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/DRERIO_0.99/reports/CTCF/COBIND_analysis_report_CTCF.html'>CTCF</a>
 </p>
 </details>
-<br>
 <details>
 <summary>
 <b>Results for TF families</b>
@@ -139,6 +196,36 @@ of reports report the discovered co-binders summarized over TF families.
 <p>
 <a href='COBIND_results/families/DRERIO_0.99/reports/More_than_3_adjacent_zinc_finger_factors/COBIND_analysis_report_More_than_3_adjacent_zinc_finger_factors.html'>More_than_3\_adjacent_zinc_finger_factors</a>
 </p>
+</details>
+<details>
+<summary>
+<b>Conservation summaries from individual TFs analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/individual/DRERIO_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/individual/DRERIO_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
+</details>
+<details>
+<summary>
+<b>Conservation summaries from TF families analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/families/DRERIO_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/families/DRERIO_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
 </details>
 
 <br> <br>
@@ -183,7 +270,6 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/DROSOPHILA_0.99/reports/TWI/COBIND_analysis_report_TWI.html'>TWI</a>
 </p>
 </details>
-<br>
 <details>
 <summary>
 <b>Results for TF families</b>
@@ -201,6 +287,36 @@ of reports report the discovered co-binders summarized over TF families.
 <p>
 <a href='COBIND_results/families/DROSOPHILA_0.99/reports/no-family-drosophila/COBIND_analysis_report_no-family-drosophila.html'>no-family-drosophila</a>
 </p>
+</details>
+<details>
+<summary>
+<b>Conservation summaries from individual TFs analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/individual/DROSOPHILA_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/individual/DROSOPHILA_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
+</details>
+<details>
+<summary>
+<b>Conservation summaries from TF families analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/families/DROSOPHILA_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/families/DROSOPHILA_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
 </details>
 
 <br> <br>
@@ -719,7 +835,6 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/HUMAN_0.99/reports/ZNF143/COBIND_analysis_report_ZNF143.html'>ZNF143</a>
 </p>
 </details>
-<br>
 <details>
 <summary>
 <b>Results for TF families</b>
@@ -914,6 +1029,36 @@ of reports report the discovered co-binders summarized over TF families.
 <p>
 <a href='COBIND_results/families/HUMAN_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1.html'>Thyroid_hormone_receptor-related_factors_NR1</a>
 </p>
+</details>
+<details>
+<summary>
+<b>Conservation summaries from individual TFs analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/individual/HUMAN_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/individual/HUMAN_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
+</details>
+<details>
+<summary>
+<b>Conservation summaries from TF families analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/families/HUMAN_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/families/HUMAN_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
 </details>
 
 <br> <br>
@@ -1450,7 +1595,6 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/MOUSE_0.99/reports/YY1/COBIND_analysis_report_YY1.html'>YY1</a>
 </p>
 </details>
-<br>
 <details>
 <summary>
 <b>Results for TF families</b>
@@ -1649,6 +1793,36 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/families/MOUSE_0.99/reports/XBP-1-related_factors/COBIND_analysis_report_XBP-1-related_factors.html'>XBP-1-related_factors</a>
 </p>
 </details>
+<details>
+<summary>
+<b>Conservation summaries from individual TFs analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/individual/MOUSE_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/individual/MOUSE_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
+</details>
+<details>
+<summary>
+<b>Conservation summaries from TF families analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/families/MOUSE_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/families/MOUSE_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
+</details>
 
 <br> <br>
 
@@ -1707,7 +1881,6 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/individual/RAT_0.99/reports/TCF7L2/COBIND_analysis_report_TCF7L2.html'>TCF7L2</a>
 </p>
 </details>
-<br>
 <details>
 <summary>
 <b>Results for TF families</b>
@@ -1749,6 +1922,36 @@ of reports report the discovered co-binders summarized over TF families.
 <p>
 <a href='COBIND_results/families/RAT_0.99/reports/Thyroid_hormone_receptor-related_factors_NR1/COBIND_analysis_report_Thyroid_hormone_receptor-related_factors_NR1.html'>Thyroid_hormone_receptor-related_factors_NR1</a>
 </p>
+</details>
+<details>
+<summary>
+<b>Conservation summaries from individual TFs analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/individual/RAT_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/individual/RAT_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
+</details>
+<details>
+<summary>
+<b>Conservation summaries from TF families analysis</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/families/RAT_0.99/top_conserved_cobinders_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for all co-binders**
+
+<img src='COBIND_results/families/RAT_0.99/all_pvalues_conservation.pdf' class='img-responsive' alt='' height = '300'>
+**Distribution of conservation p-values for top most conserved
+co-binders**
+
 </details>
 
 <br> <br>
@@ -2815,7 +3018,7 @@ of reports report the discovered co-binders summarized over TF families.
 </p>
 </details>
 
-<br> <br>
+<br>
 
 ## References
 
