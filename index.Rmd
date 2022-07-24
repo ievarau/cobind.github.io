@@ -89,7 +89,6 @@ for (species.dir in list.of.species.dirs.individual) {
   cat(paste0("\n<img src='",
              species_icon_path,
              "' class='img-responsive' alt='' height = '100px'>\n"))
-  # cat(paste0("\n<img src="img/screenshot2.PNG" class="img-responsive" alt=""> </div>))
   cat("\n\n")
 
   ##------------##
@@ -108,7 +107,6 @@ for (species.dir in list.of.species.dirs.individual) {
 
     tf_name <- basename(dirname(report.path))
 
-    # cat(paste0("\t\t - [", tf_name, "](", report.path,")\n"))
     cat(paste0("<p><a href='", report.path, 
                "'>",
                tf_name,
@@ -134,7 +132,6 @@ for (species.dir in list.of.species.dirs.individual) {
 
     tf_name <- basename(dirname(report.path))
 
-    # cat(paste0("\t\t - [", tf_name, "](", report.path,")\n"))
     cat(paste0("<p><a href='", report.path, 
                "'>",
                tf_name,
@@ -151,39 +148,39 @@ for (species.dir in list.of.species.dirs.individual) {
     cat("</details>\n\n")
     
     ## Individual:
-    individual.top.conservation.path <- file.path(species.dir, "all_pvalues_conservation.pdf")
-    individual.all.conservation.path <- file.path(species.dir, "top_conserved_cobinders_pvalues_conservation.pdf")
+    individual.top.conservation.path <- file.path(species.dir, "all_pvalues_conservation.png")
+    individual.all.conservation.path <- file.path(species.dir, "top_conserved_cobinders_pvalues_conservation.png")
     
     cat("<details markdown='1'>")
     cat("\t<summary><b>Conservation summaries from individual TFs analysis</b></summary>\n<br>\n")
 
-    cat(paste0("\n<object data='",
+    cat(paste0("\n<img src='",
                individual.all.conservation.path,
-               "' class='img-responsive' alt='' height = '300px' type='application/pdf'></object>\n"))
+             "' class='img-responsive' alt='' height = '300px'>\n<br>\n"))
     cat("**Distribution of conservation p-values for all co-binders**\n<br>\n")
     
-    cat(paste0("\n<object data='",
+    cat(paste0("\n<img src='",
                individual.top.conservation.path,
-               "' class='img-responsive' alt='' height = '300px' type='application/pdf'></object>\n"))
+             "' class='img-responsive' alt='' height = '300px'>\n<br>\n"))
     cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
     
     cat("</details>\n\n")
   
     ## Families:
-    families.top.conservation.path <- file.path(families.species.dir, "all_pvalues_conservation.pdf")
-    families.all.conservation.path <- file.path(families.species.dir, "top_conserved_cobinders_pvalues_conservation.pdf")
+    families.top.conservation.path <- file.path(families.species.dir, "all_pvalues_conservation.png")
+    families.all.conservation.path <- file.path(families.species.dir, "top_conserved_cobinders_pvalues_conservation.png")
     
     cat("<details markdown='1'>")
     cat("\t<summary><b>Conservation summaries from TF families analysis</b></summary>\n<br>\n")
 
-    cat(paste0("\n<object data='",
+    cat(paste0("\n<img src='",
                families.all.conservation.path,
-               "' class='img-responsive' alt='' height = '300px' type='application/pdf'></object>\n"))
+               "' class='img-responsive' alt='' height = '300px'>\n<br>\n"))
     cat("**Distribution of conservation p-values for all co-binders**\n<br>\n")
     
-    cat(paste0("\n<object data='",
+    cat(paste0("\n<img src='",
                families.top.conservation.path,
-               "' class='img-responsive' alt='' height = '300px' type='application/pdf'></object>\n"))
+               "' class='img-responsive' alt='' height = '300px'>\n<br>\n"))
     cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
     
     cat("</details>\n<br>\n")
@@ -273,8 +270,39 @@ cat("</details>\n<br>\n")
 
 ```
 
+## Protein-protein interaction (PPI) analysis summary ##
 
-## References ##
+
+```{r ppi_summary, cache = TRUE, echo = FALSE, eval = TRUE, include = TRUE, results = 'asis'}
+
+##-------------##
+## Directories ##
+##-------------##
+
+interspecies_results_dir          <- "COBIND_results/interspecies"
+
+interspecies.individual.dir  <- file.path(interspecies_results_dir, "individual_0.99")
+
+individual.ppi.summary.path  <- file.path(interspecies.individual.dir,
+                                          "ppi_summary_individual_full_library.png")
+  
+cat("Numbers of co-binders are summarized in the barplot and reflect the number of anchor-co-binder pairs in different species that had significant motif similarity match in motif libraries, which then was found in the protein-protein data with a significant combined score. \n<br>\n")
+
+cat("<details markdown='1'>")
+cat("\t<summary><b>See summary plot when compared to full motif library</b></summary>\n<br>\n")
+  
+cat(paste0("\n<img src='",
+               individual.ppi.summary.path,
+               "' class='img-responsive' alt='' height = '300px'>\n"))
+
+cat("</details>\n<br>\n")
+cat("<br>\n")
+cat("\n")
+
+
+```
+
+# Species icons sources #
 
 Species icons were taken from:
 

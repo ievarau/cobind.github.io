@@ -90,15 +90,11 @@ rerio* and *Rattus norvegicus*.
 
 <br>
 
-<object data="COBIND_results/individual/ARABIDOPSIS_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/individual/ARABIDOPSIS_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/individual/ARABIDOPSIS_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/individual/ARABIDOPSIS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -109,15 +105,11 @@ co-binders**
 
 <br>
 
-<object data="COBIND_results/families/ARABIDOPSIS_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/families/ARABIDOPSIS_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/families/ARABIDOPSIS_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/families/ARABIDOPSIS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -159,15 +151,11 @@ co-binders**
 
 <br>
 
-<object data="COBIND_results/individual/CELEGANS_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/individual/CELEGANS_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/individual/CELEGANS_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/individual/CELEGANS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -178,15 +166,11 @@ co-binders**
 
 <br>
 
-<object data="COBIND_results/families/CELEGANS_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/families/CELEGANS_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/families/CELEGANS_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/families/CELEGANS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -282,15 +266,11 @@ co-binders**
 
 <br>
 
-<object data="COBIND_results/individual/DROSOPHILA_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/individual/DROSOPHILA_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/individual/DROSOPHILA_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/individual/DROSOPHILA_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -301,15 +281,11 @@ co-binders**
 
 <br>
 
-<object data="COBIND_results/families/DROSOPHILA_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/families/DROSOPHILA_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/families/DROSOPHILA_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/families/DROSOPHILA_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -1032,15 +1008,11 @@ co-binders**
 
 <br>
 
-<object data="COBIND_results/individual/HUMAN_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/individual/HUMAN_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/individual/HUMAN_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/individual/HUMAN_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -1051,15 +1023,11 @@ co-binders**
 
 <br>
 
-<object data="COBIND_results/families/HUMAN_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/families/HUMAN_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/families/HUMAN_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/families/HUMAN_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -1803,15 +1771,11 @@ co-binders**
 
 <br>
 
-<object data="COBIND_results/individual/MOUSE_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/individual/MOUSE_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/individual/MOUSE_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/individual/MOUSE_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -1822,15 +1786,11 @@ co-binders**
 
 <br>
 
-<object data="COBIND_results/families/MOUSE_0.99/top_conserved_cobinders_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
+<img src='COBIND_results/families/MOUSE_0.99/top_conserved_cobinders_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for all co-binders** <br>
 
-**Distribution of conservation p-values for all co-binders** <br>
-
-<object data="COBIND_results/families/MOUSE_0.99/all_pvalues_conservation.pdf" class="img-responsive" alt height="300px" type="application/pdf">
-</object>
-
-**Distribution of conservation p-values for top most conserved
+<img src='COBIND_results/families/MOUSE_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
+<br> **Distribution of conservation p-values for top most conserved
 co-binders**
 
 </details>
@@ -3000,7 +2960,26 @@ co-binders**
 
 <br>
 
-## References
+## Protein-protein interaction (PPI) analysis summary
+
+Numbers of co-binders are summarized in the barplot and reflect the
+number of anchor-co-binder pairs in different species that had
+significant motif similarity match in motif libraries, which then was
+found in the protein-protein data with a significant combined score.
+<br>
+<details>
+<summary>
+<b>See summary plot when compared to full motif library</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/interspecies/individual_0.99/ppi_summary_individual_full_library.png' class='img-responsive' alt='' height = '300px'>
+</details>
+
+<br> <br>
+
+# Species icons sources
 
 Species icons were taken from:
 
