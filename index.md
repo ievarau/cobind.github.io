@@ -2574,7 +2574,6 @@ of reports report the discovered co-binders summarized over TF families.
 <a href='COBIND_results/interspecies/individual_0.99/reports/ZNF143/COBIND_interspecies_analysis_report_ZNF143.html'>ZNF143</a>
 </p>
 </details>
-<br>
 <details>
 <summary>
 <b>Results for TF families</b>

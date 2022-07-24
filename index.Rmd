@@ -192,7 +192,7 @@ for (report.path in list.of.interspecies.individual.reports) {
 
   }
   
-cat("</details>\n<br>\n")
+cat("</details>\n\n")
 
 ##----------##
 ## Families ##
