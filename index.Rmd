@@ -33,8 +33,9 @@ This page contains results from COBIND 2022 analysis. We analysed 8,792 datasets
 
 Reports about discovered co-binders are provided for each TF (where at least one co-binder was discovered) in different species. Another group of reports report the discovered co-binders summarized over TF families.
 
+# Species-specific results
 
-```{r individual_reports, cache = TRUE, echo = FALSE, eval = TRUE, include = TRUE, results = 'asis'}
+```{r individual_families_reports, cache = TRUE, echo = FALSE, eval = TRUE, include = TRUE, results = 'asis'}
 
 ##----------------##
 ## Species labels ##
@@ -86,7 +87,7 @@ for (species.dir in list.of.species.dirs.individual) {
   
 
 
-  cat(paste0("# **", species_name, "**"))
+  cat(paste0("## **", species_name, "**"))
   cat(paste0("\n<img src='",
              species_icon_path,
              "' class='img-responsive' alt='' height = '100px'>\n"))
@@ -103,7 +104,7 @@ for (species.dir in list.of.species.dirs.individual) {
                                            full.names = TRUE)
   
   cat("<details markdown='1'>")
-  cat("\t<summary><b>Results for individual TFs</b></summary>\n\n")
+  cat("\t<summary><b>Results for individual TFs</b></summary>\n<br>\n")
   
   for (report.path in list.of.individual.reports) {
 
@@ -117,7 +118,7 @@ for (species.dir in list.of.species.dirs.individual) {
 
   }
   
-  cat("</details>\n")
+  cat("</details>\n<br>\n")
   
   ##----------##
   ## Families ##
@@ -129,7 +130,7 @@ for (species.dir in list.of.species.dirs.individual) {
                                          full.names = TRUE)
   
   cat("<details markdown='1'>")
-  cat("\t<summary><b>Results for TF families</b></summary>\n\n")
+  cat("\t<summary><b>Results for TF families</b></summary>\n<br>\n")
   
   for (report.path in list.of.families.reports) {
 
@@ -143,11 +144,84 @@ for (species.dir in list.of.species.dirs.individual) {
 
   }
   
-  cat("</details>\n")
+  cat("</details>\n<br>\n")
   cat("<br>\n")
   cat("\n")
 }
 
+
+```
+
+# Interspecies results #
+
+
+```{r interspecies_reports, cache = TRUE, echo = FALSE, eval = TRUE, include = TRUE, results = 'asis'}
+
+##-------------##
+## Directories ##
+##-------------##
+
+interspecies_results_dir          <- "COBIND_results/interspecies"
+
+##---------------------##
+## Listing the reports ##
+##---------------------##
+
+##------------##
+## Individual ##
+##------------##
+
+interspecies.individual.dir  <- file.path(interspecies_results_dir, "individual_0.99")
+
+list.of.interspecies.individual.reports <- list.files(interspecies.individual.dir,
+                                           pattern = ".html",
+                                           recursive = TRUE,
+                                           full.names = TRUE)
+  
+cat("<details markdown='1'>")
+cat("\t<summary><b>Results for individual TFs</b></summary>\n<br>\n")
+  
+for (report.path in list.of.interspecies.individual.reports) {
+
+  tf_name <- basename(dirname(report.path))
+
+  cat(paste0("<p><a href='", report.path, 
+             "'>",
+               tf_name,
+             "</a></p>"))
+
+  }
+  
+cat("</details>\n<br>\n")
+
+##----------##
+## Families ##
+##----------##
+
+interspecies.families.dir  <- file.path(interspecies_results_dir, "families_0.99")
+
+list.of.families.individual.reports <- list.files(interspecies.families.dir,
+                                           pattern = ".html",
+                                           recursive = TRUE,
+                                           full.names = TRUE)
+  
+cat("<details markdown='1'>")
+cat("\t<summary><b>Results for TF families</b></summary>\n<br>\n")
+  
+for (report.path in list.of.families.individual.reports) {
+
+  tf_name <- basename(dirname(report.path))
+
+  cat(paste0("<p><a href='", report.path, 
+             "'>",
+               tf_name,
+             "</a></p>"))
+
+  }
+  
+cat("</details>\n<br>\n")
+cat("<br>\n")
+cat("\n")
 
 ```
 
