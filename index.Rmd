@@ -31,7 +31,7 @@ This repository and its contents were used to produce the results for the COBIND
 This page contains results from COBIND 2022 analysis. We analysed 8,792 datasets of high-confidence TFBSs stored in [UniBind 2021](https://unibind.uio.no/) database for 404 unique TFs that collectively are from 7 species: _Arabidopsis thaliana_, _Caenorhabditis elegans_, _Danio rerio_, _Drosophila melanogaster_, _Homo sapiens_, _Mus musculus_ and _Rattus norvegicus_.
 
 
-Reports about discovered co-binders are provided for each TF (where at least one co-binder was discovered) in different species. Another group of reports report the discovered co-binders summarized over TF families.
+Reports about discovered co-binders are provided for each TF (where at least one co-binder was discovered) in different species. Another group of reports report the discovered co-binders summarized over TF families. Conservation summaries are available for all species, except  _Danio rerio_ and _Rattus norvegicus_.
 
 # Species-specific results
 
@@ -139,7 +139,6 @@ for (species.dir in list.of.species.dirs.individual) {
                "'>",
                tf_name,
                "</a></p>"))
-
   }
   
   ##------------------------##
@@ -147,7 +146,7 @@ for (species.dir in list.of.species.dirs.individual) {
   ##------------------------##
   
   ## Adding conservation summaries for certain species:
-  if (species_name_ID != "RAT" | species_name_ID != "DRERIO") {
+  if (species_name_ID != "RAT" & species_name_ID != "DRERIO") {
     
     cat("</details>\n\n")
     
@@ -158,21 +157,14 @@ for (species.dir in list.of.species.dirs.individual) {
     cat("<details markdown='1'>")
     cat("\t<summary><b>Conservation summaries from individual TFs analysis</b></summary>\n<br>\n")
 
-    cat(paste0("\n<img src='",
+    cat(paste0("\n<object data='",
                individual.all.conservation.path,
-               "' class='img-responsive' alt='' height = '300px'>\n"))
+               "' class='img-responsive' alt='' height = '300px' type='application/pdf'></object>\n"))
     cat("**Distribution of conservation p-values for all co-binders**\n<br>\n")
     
-    # cat(paste0("\n<img src='",
-    #            individual.top.conservation.path,
-    #            "' class='img-responsive' alt='' height = '300'>\n"))
     cat(paste0("\n<object data='",
                individual.top.conservation.path,
-               "' height = '300px' type='application/pdf'></object>\n"))
-    
-    # <object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
-    
-    
+               "' class='img-responsive' alt='' height = '300px' type='application/pdf'></object>\n"))
     cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
     
     cat("</details>\n\n")
@@ -184,14 +176,14 @@ for (species.dir in list.of.species.dirs.individual) {
     cat("<details markdown='1'>")
     cat("\t<summary><b>Conservation summaries from TF families analysis</b></summary>\n<br>\n")
 
-    cat(paste0("\n<img src='",
+    cat(paste0("\n<object data='",
                families.all.conservation.path,
-               "' class='img-responsive' alt='' height = '300'>\n"))
+               "' class='img-responsive' alt='' height = '300px' type='application/pdf'></object>\n"))
     cat("**Distribution of conservation p-values for all co-binders**\n<br>\n")
     
-    cat(paste0("\n<img src='",
+    cat(paste0("\n<object data='",
                families.top.conservation.path,
-               "' class='img-responsive' alt='' height = '300'>\n"))
+               "' class='img-responsive' alt='' height = '300px' type='application/pdf'></object>\n"))
     cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
     
     cat("</details>\n<br>\n")
