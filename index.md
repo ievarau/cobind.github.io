@@ -2586,6 +2586,19 @@ found in the protein-protein data with a significant combined score.
 <br>
 <details>
 <summary>
+<b>See summary plot when compared to species-specific motif
+libraries</b>
+</summary>
+
+<br>
+
+<img src='COBIND_results/interspecies/individual_0.99/ppi_summary_individual_species_specific_library.png' class='img-responsive' alt='' height = '300px'>
+</details>
+
+<br>
+
+<details>
+<summary>
 <b>See summary plot when compared to full motif library</b>
 </summary>
 
