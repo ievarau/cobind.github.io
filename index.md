@@ -76,6 +76,12 @@ rerio* and *Rattus norvegicus*.
 <b>Results for TF families</b>
 </summary>
 <br>
+<p>
+<a href='COBIND_results/families/ARABIDOPSIS_0.99/reports/MybSANT_domain_factors/COBIND_analysis_report_MybSANT_domain_factors.html'>MybSANT_domain_factors</a>
+</p>
+<p>
+<a href='COBIND_results/families/ARABIDOPSIS_0.99/reports/no-family-arabidopsis/COBIND_analysis_report_no-family-arabidopsis.html'>no-family-arabidopsis</a>
+</p>
 </details>
 <details>
 <summary>
