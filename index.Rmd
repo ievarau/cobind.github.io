@@ -173,15 +173,15 @@ for (species.dir in list.of.species.dirs.individual) {
     cat("<details markdown='1'>")
     cat("\t<summary><b>Conservation summaries from TF families analysis</b></summary>\n<br>\n")
 
+    cat("**Distribution of conservation p-values for all co-binders**\n<br>\n")
     cat(paste0("\n<img src='",
                families.all.conservation.path,
                "' class='img-responsive' alt='' height = '300px'>\n\n"))
-    cat("**Distribution of conservation p-values for all co-binders**\n<br>\n")
     
+    cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
     cat(paste0("\n<img src='",
                families.top.conservation.path,
                "' class='img-responsive' alt='' height = '300px'>\n\n"))
-    cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
     
     cat("</details>\n<br>\n")
     cat("<br>\n")
