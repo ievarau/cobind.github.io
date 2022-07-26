@@ -25,7 +25,7 @@ options(stringsAsFactors = FALSE)
 
 **COBIND** pipeline aims to identify the co-binders/co-factors of transcription factors (TFs). The method uses coordinates of transcription factor binding sites (TFBSs) as an input and returns information about co-binders and their binding fashion — spacings between the two binding sites.
 
-This repository and its contents were used to produce the results for the COBIND manuscript. We made available COBIND as a tool, which can be found [here](https://bitbucket.org/CBGR/cobind_tool/src/master/).
+The code that was used to produce COBIND 2022 results is stored in this [repository](https://bitbucket.org/CBGR/pipeline_cobind/src/master/). COBIND pipeline is also as a tool and can be found in this [repository](https://bitbucket.org/CBGR/cobind_tool/src/master/).
 
 
 ## What to expect from this page? ##
