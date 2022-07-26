@@ -3,8 +3,10 @@ title: "COBIND 2022 results"
 author: Ieva Rauluseviciute
 email : ievarau@uio.no
 github : ievarau
-date: July 22, 2022
+date: "`r format(Sys.time(), '%d %B %Y')`"
 output:
+  html_document:
+    keep_md: yes
   md_document:
     variant: gfm
 has_children: true
@@ -284,11 +286,11 @@ interspecies_results_dir              <- "COBIND_results/interspecies"
 interspecies.individual.dir           <- file.path(interspecies_results_dir, "individual_0.99")
 
 individual.specific.ppi.summary.path  <- file.path(interspecies.individual.dir,
-                                          "ppi_summary_individual_species_specific_library.png")
+                                          "ppi_summary_individual_species_library.png")
 individual.ppi.summary.path           <- file.path(interspecies.individual.dir,
                                           "ppi_summary_individual_full_library.png")
   
-cat("Numbers of co-binders are summarized in the barplot and reflect the number of anchor-co-binder pairs in different species that had significant motif similarity match in motif libraries, which then was found in the protein-protein data with a significant combined score. \n<br>\n")
+cat("Numbers of co-binders are summarized in the barplot and reflect the number of anchor-co-binder pairs in different species that had significant motif similarity match in motif libraries, which then was found in the protein-protein data with a significant combined score. \n<br>\n<br>\n<br>\n")
 
 cat("<details markdown='1'>")
 cat("\t<summary><b>See summary plot when compared to species-specific motif libraries</b></summary>\n<br>\n")
