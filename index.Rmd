@@ -164,7 +164,7 @@ for (species.dir in list.of.species.dirs.individual) {
     cat(paste0("\n<img src='",
                individual.top.conservation.path,
              "' class='img-responsive' alt='' height = '300px'>\n\n"))
-    cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
+    cat("**Distribution of conservation p-values for top most conserved co-binders**\n<br>\n")
     
     cat("</details>\n\n")
   
@@ -183,7 +183,7 @@ for (species.dir in list.of.species.dirs.individual) {
     cat("**Distribution of conservation p-values for top most conserved co-binders**\n\n")
     cat(paste0("\n<img src='",
                families.top.conservation.path,
-               "' class='img-responsive' alt='' height = '300px'>\n\n"))
+               "' class='img-responsive' alt='' height = '300px'>\n<br>\n"))
     
     cat("</details>\n<br>\n")
     cat("<br>\n")

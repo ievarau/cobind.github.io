@@ -51,7 +51,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 <img src='COBIND_results/individual/ARABIDOPSIS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
 
 **Distribution of conservation p-values for top most conserved co-binders**
-
+<br>
 </details>
 
 <details markdown='1'>	<summary><b>Conservation summaries from TF families analysis</b></summary>
@@ -65,7 +65,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 
 
 <img src='COBIND_results/families/ARABIDOPSIS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-
+<br>
 </details>
 <br>
 <br>
@@ -93,7 +93,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 <img src='COBIND_results/individual/CELEGANS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
 
 **Distribution of conservation p-values for top most conserved co-binders**
-
+<br>
 </details>
 
 <details markdown='1'>	<summary><b>Conservation summaries from TF families analysis</b></summary>
@@ -107,7 +107,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 
 
 <img src='COBIND_results/families/CELEGANS_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-
+<br>
 </details>
 <br>
 <br>
@@ -147,7 +147,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 <img src='COBIND_results/individual/DROSOPHILA_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
 
 **Distribution of conservation p-values for top most conserved co-binders**
-
+<br>
 </details>
 
 <details markdown='1'>	<summary><b>Conservation summaries from TF families analysis</b></summary>
@@ -161,7 +161,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 
 
 <img src='COBIND_results/families/DROSOPHILA_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-
+<br>
 </details>
 <br>
 <br>
@@ -189,7 +189,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 <img src='COBIND_results/individual/HUMAN_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
 
 **Distribution of conservation p-values for top most conserved co-binders**
-
+<br>
 </details>
 
 <details markdown='1'>	<summary><b>Conservation summaries from TF families analysis</b></summary>
@@ -203,7 +203,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 
 
 <img src='COBIND_results/families/HUMAN_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-
+<br>
 </details>
 <br>
 <br>
@@ -231,7 +231,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 <img src='COBIND_results/individual/MOUSE_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
 
 **Distribution of conservation p-values for top most conserved co-binders**
-
+<br>
 </details>
 
 <details markdown='1'>	<summary><b>Conservation summaries from TF families analysis</b></summary>
@@ -245,7 +245,7 @@ Reports about discovered co-binders are provided for each TF (where at least one
 
 
 <img src='COBIND_results/families/MOUSE_0.99/all_pvalues_conservation.png' class='img-responsive' alt='' height = '300px'>
-
+<br>
 </details>
 <br>
 <br>
