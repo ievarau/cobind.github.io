@@ -5,8 +5,8 @@ email : ievarau@uio.no
 github : ievarau
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output:
-  html_document:
-    keep_md: yes
+  # html_document:
+  #   keep_md: yes
   md_document:
     variant: gfm
 has_children: true
