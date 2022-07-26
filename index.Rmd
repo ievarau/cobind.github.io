@@ -191,6 +191,7 @@ for (species.dir in list.of.species.dirs.individual) {
     
   } else {
     
+    cat("</details>\n\n")
     cat("<br>\n")
     cat("\n")
     
